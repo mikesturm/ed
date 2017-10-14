@@ -11,4 +11,4 @@ I publish a weekly Newsletter called [Woolgathering][3], which is intended to he
 
 [1]: http://www.mikesturm.net/mikesturm.github.io/writing-quill-books_default.png
 [2]: https://www.nbforum.com/
-[3]: http://eepurl.com/cTUcBP
+[3]: http://us11.campaign-archive.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762
