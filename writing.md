@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documentation
-author: Alex Gil
+title: Writing
+author: Mike Sturm
 ---
 
 ## Contents
@@ -21,15 +21,25 @@ Enjoy!
 
 [The Secret Sauce of Incredible Productivity](https://medium.com/personal-growth/the-secret-sauce-of-incredible-productivity-5a3b997a3b4)
 
+[What Productive People Know that Others Don’t](https://medium.com/personal-growth/what-productive-people-know-that-others-dont-1a7d0f977659)
+
+
 ---
 
 ## Writing
 
 [A Better, Easier Way to Journal](https://medium.com/@MikeSturm/a-better-easier-way-to-journal-45e9245f8a57)
 
+[Simple Writing vs. Lazy Writing](https://writingcooperative.com/simple-writing-vs-lazy-writing-b9957231caaa)
+
+[Content for Content’s Sake](https://thecoffeelicious.com/content-for-contents-sake-a154aed19e20)
+
+
 ---
 
 ## Better Thinking
+
+[Think Like No One Else](https://medium.com/personal-growth/think-like-no-one-else-58d5485a9975)
 
 [How to Dramatically Sharpen Your Attention and Focus](https://medium.com/personal-growth/how-to-dramatically-sharpen-your-attention-and-focus-416444802997)
 
@@ -37,6 +47,10 @@ Enjoy!
 
 
 [4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
+
+
+[The Power of Negative Thinking](https://medium.com/personal-growth/the-power-of-negative-thinking-9c335f51a5a9)
+
 
 ---
 
@@ -47,138 +61,115 @@ Enjoy!
 
 [No Goals, No Passion, No Problem](https://medium.com/personal-growth/no-goals-no-passion-no-problem-7af948fb18db)
 
-
-## Business and Entrepreneurship
-
-[Is All Our Hard Work Killing Our Future?](https://extranewsfeed.com/is-all-our-work-killing-our-future-d946773568ba)
-
-
-
-## Communication
-
-
-## Learning
-
-
-## Values
-
-[Slower, Fewer, Less](https://medium.com/personal-growth/slower-fewer-less-fd5c66b6d000)
-
-
-
-[What Your First Question Should Always Be](https://medium.com/personal-growth/what-your-first-question-should-always-be-ecba14f3396f)
-
-
-
-[Intellectual Honesty](https://thecoffeelicious.com/how-and-why-to-practice-intellectual-honesty-3301ef8ca9ec)
-
-
-
-[The Unexpected Power of Stillness](https://medium.com/personal-growth/the-secret-power-of-stillness-bef325edb6f8)
-
-
-
-[Simple, But Not Easy](https://medium.com/personal-growth/simple-but-not-easy-3a80ca05dc3c)
-
-
-
 [There Is No Self-Improvement if You’re Not Already Pretty Good](https://medium.com/personal-growth/there-is-no-self-improvement-if-you-dont-already-love-yourself-5191e3b966b9)
-
-
 
 [What’s Wrong With Inspirational and Personal Development Writing on Medium](https://extranewsfeed.com/whats-wrong-with-inspirational-and-personal-development-writing-on-medium-9a2fe3d72f0e)
 
-
-
-[Please, Please, Please Don’t Quit Your Day Job](https://hackernoon.com/please-please-please-dont-quit-your-day-job-79cd930f9a48)
-
-
-
-[Learning Isn’t Collecting, It’s Connecting](https://medium.com/personal-growth/learning-isnt-collecting-it-s-connecting-e1189837aa23)
-
-
-
 [Success Through the Positive Self-Interview](https://medium.com/personal-growth/success-through-the-positive-self-interview-8b4c6e1163e4)
-
-
-
-[Self-Help Titles and The Sincerity Gap](https://writingcooperative.com/self-help-title-fails-ce3d58c83e39)
-
-
-
-[Nothing is Meant to Be, and That’s Awesome](https://thecoffeelicious.com/nothing-is-meant-to-be-and-thats-awesome-a2e03c2556f6)
-
-
-
-[Think Like No One Else](https://medium.com/personal-growth/think-like-no-one-else-58d5485a9975)
-
-
-
-[What Productive People Know that Others Don’t](https://medium.com/personal-growth/what-productive-people-know-that-others-dont-1a7d0f977659)
-
-
-
-[Why Startups Need Philosophers](https://theascent.biz/why-startups-need-philosophers-e4fee2de6c40)
-
-
 
 [The Most Important Relationship In Your Life](https://medium.com/personal-growth/the-most-important-relationship-in-your-life-5d6b2779b561)
 
-
-
-[How to Ask Better Questions](https://thecoffeelicious.com/how-to-ask-better-questions-199bb6f6e696)
-
-
-
-[I Don’t Read](https://medium.com/personal-growth/i-dont-read-f9a6c741e3c4)
-
-
-
-[Content for Content’s Sake](https://thecoffeelicious.com/content-for-contents-sake-a154aed19e20)
-
-
-
-[The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
-
-
-
-[Simple Writing vs. Lazy Writing](https://writingcooperative.com/simple-writing-vs-lazy-writing-b9957231caaa)
-
-
-
-[Why We Never Feel Successful Enough](https://medium.com/personal-growth/why-we-never-feel-successful-enough-a8b5614b926d)
-
-
-
 [When Goals Become Limits](https://medium.com/personal-growth/when-goals-become-limits-f7254d24993e)
-
-
-
-[The Power of Negative Thinking](https://medium.com/personal-growth/the-power-of-negative-thinking-9c335f51a5a9)
-
-
 
 [The Illusion of “Outside Your Comfort Zone”](https://medium.com/personal-growth/the-illusion-of-outside-your-comfort-zone-e3ff44143032)
 
 
 
+---
+## Business and Entrepreneurship
+
+[Is All Our Hard Work Killing Our Future?](https://extranewsfeed.com/is-all-our-work-killing-our-future-d946773568ba)
+
+[Why Startups Need Philosophers](https://theascent.biz/why-startups-need-philosophers-e4fee2de6c40)
+
+[Please, Please, Please Don’t Quit Your Day Job](https://hackernoon.com/please-please-please-dont-quit-your-day-job-79cd930f9a48)
+
 [The Dangers of the New Entrepreneurial Mindset](https://medium.com/personal-growth/the-dangers-of-the-new-entrepreneurial-mindset-d45272603cd2)
 
 
+---
+## Communication
+
+[How to Ask Better Questions](https://thecoffeelicious.com/how-to-ask-better-questions-199bb6f6e696)
+
+
+---
+## Learning
+
+[What Your First Question Should Always Be](https://medium.com/personal-growth/what-your-first-question-should-always-be-ecba14f3396f)
+
+[Intellectual Honesty](https://thecoffeelicious.com/how-and-why-to-practice-intellectual-honesty-3301ef8ca9ec)
+
+[Learning Isn’t Collecting, It’s Connecting](https://medium.com/personal-growth/learning-isnt-collecting-it-s-connecting-e1189837aa23)
+
+[I Don’t Read](https://medium.com/personal-growth/i-dont-read-f9a6c741e3c4)
+
+[The Curiosity Quadrant: Becoming Smarter Through Strategic Ignorance](https://medium.com/personal-growth/the-curiosity-quadrant-becoming-smarter-through-strategic-ignorance-3fee9864c79d)
+
+
+
+---
+## Values
+
+[Slower, Fewer, Less](https://medium.com/personal-growth/slower-fewer-less-fd5c66b6d000)
+
+[The Unexpected Power of Stillness](https://medium.com/personal-growth/the-secret-power-of-stillness-bef325edb6f8)
+
+[Simple, But Not Easy](https://medium.com/personal-growth/simple-but-not-easy-3a80ca05dc3c)
+
+[Self-Help Titles and The Sincerity Gap](https://writingcooperative.com/self-help-title-fails-ce3d58c83e39)
+
+[Why We Never Feel Successful Enough](https://medium.com/personal-growth/why-we-never-feel-successful-enough-a8b5614b926d)
 
 [Actually, It’s Not Passion You’re After](https://writingcooperative.com/actually-its-not-passion-you-re-after-d8b79247ec0e)
 
-
-
 [3 Principles for 2017](https://medium.com/personal-growth/3-principles-for-2017-750bcbe2a5fe)
-
-
 
 [The Power of Powerlessness](https://medium.com/personal-growth/the-power-of-powerlessness-721aa153a613)
 
 
 
-[The Curiosity Quadrant: Becoming Smarter Through Strategic Ignorance](https://medium.com/personal-growth/the-curiosity-quadrant-becoming-smarter-through-strategic-ignorance-3fee9864c79d)
+## Miscellanious/Commentary
+
+[The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
+
+
+[Nothing is Meant to Be, and That’s Awesome](https://thecoffeelicious.com/nothing-is-meant-to-be-and-thats-awesome-a2e03c2556f6)
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
