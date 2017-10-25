@@ -5,7 +5,7 @@ title:               Mike Sturm
 tagline:             'The Internet Home of Mike Sturm'
 description:         'Mike writes on the internet, in various places. This is his online home base.'
 url:                 'http://mikesturm.github.io'
-baseurl:             '/ed'
+baseurl:             '/'
 
 # About/contact
 author:
