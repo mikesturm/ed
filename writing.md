@@ -23,6 +23,9 @@ Enjoy!
 
 [What Productive People Know that Others Don’t](https://medium.com/personal-growth/what-productive-people-know-that-others-dont-1a7d0f977659)
 
+[The Listening Palace: How to Get More out Of Conversations, and Become a Better Listener](https://medium.com/personal-growth/the-listening-palace-how-to-get-more-out-of-conversations-and-become-a-better-listener-616f726556db)
+
+[You Have 48 Tomatoes — Use Them Wisely](https://hackernoon.com/you-have-48-tomatoes-use-them-wisely-391660677249)
 
 ---
 
@@ -34,6 +37,7 @@ Enjoy!
 
 [Content for Content’s Sake](https://thecoffeelicious.com/content-for-contents-sake-a154aed19e20)
 
+[Writing Is Magical](https://writingcooperative.com/writing-is-magical-3d8eaa0786ae)
 
 ---
 
@@ -51,7 +55,7 @@ Enjoy!
 
 [The Power of Negative Thinking](https://medium.com/personal-growth/the-power-of-negative-thinking-9c335f51a5a9)
 
-
+[Hanlon’s Razor: How to Avoid Common Missteps in Judgment](https://medium.com/personal-growth/hanlons-razor-how-to-avoid-common-missteps-in-judgment-c83afc4e2168)
 ---
 
 
@@ -73,7 +77,9 @@ Enjoy!
 
 [The Illusion of “Outside Your Comfort Zone”](https://medium.com/personal-growth/the-illusion-of-outside-your-comfort-zone-e3ff44143032)
 
+[The Benefit of Single-tasking and how to Get Yourself to Do It](https://medium.com/personal-growth/the-benefit-of-single-tasking-and-how-to-get-yourself-to-do-it-9556c093ba25)
 
+[Less, But Better](https://thecoffeelicious.com/less-but-better-f6809c2efa34)
 
 ---
 ## Business and Entrepreneurship
@@ -86,6 +92,7 @@ Enjoy!
 
 [The Dangers of the New Entrepreneurial Mindset](https://medium.com/personal-growth/the-dangers-of-the-new-entrepreneurial-mindset-d45272603cd2)
 
+[The Problem With “Results” Thinking](https://medium.com/personal-growth/the-problem-with-results-thinking-aa2d6d43c069)
 
 ---
 ## Communication
@@ -106,7 +113,7 @@ Enjoy!
 
 [The Curiosity Quadrant: Becoming Smarter Through Strategic Ignorance](https://medium.com/personal-growth/the-curiosity-quadrant-becoming-smarter-through-strategic-ignorance-3fee9864c79d)
 
-
+[A.B.L — Always Be Learning](https://hackernoon.com/a-b-l-always-be-learning-5aa8def88585)
 
 ---
 ## Values
@@ -127,8 +134,11 @@ Enjoy!
 
 [The Power of Powerlessness](https://medium.com/personal-growth/the-power-of-powerlessness-721aa153a613)
 
+[Against the Concept of “Speaking Your Mind”](https://medium.com/personal-growth/no-you-shouldnt-speak-your-mind-84ee6ed48606)
 
+[The Pursuit of Happiness v2.0](https://medium.com/personal-growth/the-pursuit-of-happiness-v2-0-4071a4440b72)
 
+---
 ## Miscellanious/Commentary
 
 [The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
@@ -142,82 +152,10 @@ Enjoy!
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[The Problem With “Results” Thinking](https://medium.com/personal-growth/the-problem-with-results-thinking-aa2d6d43c069)
-
-
-
-[Writing Is Magical](https://writingcooperative.com/writing-is-magical-3d8eaa0786ae)
-
-
-
-[The Benefit of Single-tasking and how to Get Yourself to Do It](https://medium.com/personal-growth/the-benefit-of-single-tasking-and-how-to-get-yourself-to-do-it-9556c093ba25)
-
-
-
-[The Listening Palace: How to Get More out Of Conversations, and Become a Better Listener](https://medium.com/personal-growth/the-listening-palace-how-to-get-more-out-of-conversations-and-become-a-better-listener-616f726556db)
-
-
-
-[Hanlon’s Razor: How to Avoid Common Missteps in Judgment](https://medium.com/personal-growth/hanlons-razor-how-to-avoid-common-missteps-in-judgment-c83afc4e2168)
-
-
-
-[Against the Concept of “Speaking Your Mind”](https://medium.com/personal-growth/no-you-shouldnt-speak-your-mind-84ee6ed48606)
-
-
-
-[The Pursuit of Happiness v2.0](https://medium.com/personal-growth/the-pursuit-of-happiness-v2-0-4071a4440b72)
-
-
-
-[Less, But Better](https://thecoffeelicious.com/less-but-better-f6809c2efa34)
-
-
-
-[A.B.L — Always Be Learning](https://hackernoon.com/a-b-l-always-be-learning-5aa8def88585)
-
-
-
-[You Have 48 Tomatoes — Use Them Wisely](https://hackernoon.com/you-have-48-tomatoes-use-them-wisely-391660677249)
-
-
+<!--
 
 [The OODA Loop: A Tool for Better Decision-Making](https://medium.com/personal-growth/the-ooda-loop-a-tool-for-better-decision-making-that-youre-already-using-ca24a3fa8c5c)
 
-
-
-[Entrepreneurship Is Not the Answer](https://medium.com/p/entrepreneurship-is-not-the-answer-846c0a492ba8)
 
 
 
@@ -344,6 +282,4 @@ Enjoy!
 
 [Why Everyone Should Work in Food Service](https://theascent.biz/why-everyone-should-work-in-food-service-3e94fad2e2e3)
 
----
-
-## Self Improvement
+--->
