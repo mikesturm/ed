@@ -1,7 +1,11 @@
----
+﻿---
 layout: page
 title: Writing
 author: Mike Sturm
+---
+I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://us11.campaign-archive2.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:info@mikesturm.net). I'm open to coutnerarguments.
+
+Enjoy!
 ---
 
 ## Contents
@@ -11,9 +15,8 @@ author: Mike Sturm
 {:toc}
 
 ---
-I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://us11.campaign-archive2.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:info@mikesturm.net). I'm open to coutnerarguments.
 
-Enjoy!
+
 
 ## Productivity
 
@@ -27,6 +30,30 @@ Enjoy!
 
 [You Have 48 Tomatoes — Use Them Wisely](https://hackernoon.com/you-have-48-tomatoes-use-them-wisely-391660677249)
 
+
+[The Productive Power of the Wandering Mind](https://medium.com/personal-growth/in-defense-of-the-wandering-mind-f05d3611748e)
+
+
+[Leverage the Difference Between “Doing” and “Getting Done”](https://medium.com/personal-growth/the-powerful-distinction-that-can-drastically-improve-your-productivity-92cefb75db6d)
+
+[Grand Theft Time](https://medium.com/hi-my-name-is-jon/grand-theft-time-a3f4e032ca25)
+
+
+[How Priorities Really Work](https://medium.com/personal-growth/how-priorities-really-work-df451a976563)
+
+[What a Pizza-Eating Champion Taught Me About Goals](https://medium.com/personal-growth/what-a-pizza-eating-champion-taught-me-about-goals-48d4182089c5)
+
+
+
+[What Most Productivity Advice Misses](https://medium.com/personal-growth/the-mostly-missing-element-of-productivity-122da36bc4d7)
+
+
+[5 Things About Productivity and Success that I Learned from Watching Baseball](https://hackernoon.com/5-things-baseball-taught-me-about-productivity-and-success-70ad273a4aa9)
+
+
+[The Real Power of “Inbox Zero”](https://medium.com/personal-growth/the-real-power-of-inbox-zero-d7b1c27862e0)
+
+
 ---
 
 ## Writing
@@ -38,6 +65,15 @@ Enjoy!
 [Content for Content’s Sake](https://thecoffeelicious.com/content-for-contents-sake-a154aed19e20)
 
 [Writing Is Magical](https://writingcooperative.com/writing-is-magical-3d8eaa0786ae)
+
+
+[The Problem With Going Viral](https://thecoffeelicious.com/the-problem-with-going-viral-e59b78392e8)
+
+
+[Write, To Remain Silent](https://writingcooperative.com/write-to-remain-silent-7dbb88f059a6)
+
+
+[Writing As Soulcraft](https://writingcooperative.com/writing-as-soulcraft-b5a7cf76290a)
 
 ---
 
@@ -53,9 +89,13 @@ Enjoy!
 [4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
 
 
+[The OODA Loop: A Tool for Better Decision-Making](https://medium.com/personal-growth/the-ooda-loop-a-tool-for-better-decision-making-that-youre-already-using-ca24a3fa8c5c)
+
+
 [The Power of Negative Thinking](https://medium.com/personal-growth/the-power-of-negative-thinking-9c335f51a5a9)
 
-[Hanlon’s Razor: How to Avoid Common Missteps in Judgment](https://medium.com/personal-growth/hanlons-razor-how-to-avoid-common-missteps-in-judgment-c83afc4e2168)
+[Hanlon’s Razor: How to Avoid Common Missteps in Judgment](https://medium.com/personal-growth/hanlons-razor-how-to-avoid-common-missteps-in-judgment-c83afc4e2168)  
+
 ---
 
 
@@ -81,6 +121,21 @@ Enjoy!
 
 [Less, But Better](https://thecoffeelicious.com/less-but-better-f6809c2efa34)
 
+[How to Cultivate an Effective Gratitude Habit](https://medium.com/personal-growth/3-steps-to-practicing-better-gratitude-ba3c620e5b55)
+
+
+[A Few Useful Things I’ve Learned — No Fancy Title](https://thecoffeelicious.com/a-few-useful-things-ive-learned-no-fancy-title-c6a9ac70342f)
+
+[Improvement, Not Success](https://writingcooperative.com/improvement-not-success-51917923b7c6)
+
+
+[What Self-Help and Inspirational Writers Might Never Want to Admit](https://medium.com/self-starter/what-self-help-and-inspirational-writers-might-never-want-to-admit-2baefa56f7b1)
+
+
+[It's Just Practice](https://medium.com/personal-growth/its-just-practice-70d6984022c3)
+
+[We Forget to Breathe](https://medium.com/personal-growth/we-forget-to-breathe-66691a347164)
+
 ---
 ## Business and Entrepreneurship
 
@@ -94,10 +149,28 @@ Enjoy!
 
 [The Problem With “Results” Thinking](https://medium.com/personal-growth/the-problem-with-results-thinking-aa2d6d43c069)
 
+
+[The Best Leaders Follow](https://entrepreneurs.maqtoob.com/the-best-leaders-follow-a060d4470fd4)
+
+[What Old-School Manufacturing Can Teach New-School Entrepreneurs](https://entrepreneurs.maqtoob.com/what-old-school-manufacturing-can-teach-entrepreneurs-dd8722342a5)
+
+
+[On the Concept of a “Side Hustle”](https://hackernoon.com/on-the-concept-of-a-side-hustle-f4019f5f3790)
+
+
+[What If You Invoiced Yourself for All of Your Time?](https://hackernoon.com/what-if-you-invoiced-yourself-for-all-of-your-time-eb0542277876)
+
+
+[Why Everyone Should Work in Food Service](https://theascent.biz/why-everyone-should-work-in-food-service-3e94fad2e2e3)
+
+[On Survivorship Bias and the Pursuit of Dreams](https://medium.com/personal-growth/on-survivorship-bias-and-the-pursuit-of-dreams-6dfbf8fd2278)
+
 ---
 ## Communication
 
 [How to Ask Better Questions](https://thecoffeelicious.com/how-to-ask-better-questions-199bb6f6e696)
+
+[The 3:1 Principle for Radically Better Communication](https://entrepreneurs.maqtoob.com/the-3-1-principle-for-radically-better-communication-9bae1e528abf)
 
 
 ---
@@ -114,6 +187,9 @@ Enjoy!
 [The Curiosity Quadrant: Becoming Smarter Through Strategic Ignorance](https://medium.com/personal-growth/the-curiosity-quadrant-becoming-smarter-through-strategic-ignorance-3fee9864c79d)
 
 [A.B.L — Always Be Learning](https://hackernoon.com/a-b-l-always-be-learning-5aa8def88585)
+
+
+[Seek First to Understand](https://medium.com/personal-growth/seek-first-to-understand-8db03445dbf0)
 
 ---
 ## Values
@@ -138,148 +214,48 @@ Enjoy!
 
 [The Pursuit of Happiness v2.0](https://medium.com/personal-growth/the-pursuit-of-happiness-v2-0-4071a4440b72)
 
----
-## Miscellanious/Commentary
-
-[The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
+[The Practical Case for Mercy](https://medium.com/personal-growth/the-practical-case-for-mercy-1a9b2c05048d)
 
 
-[Nothing is Meant to Be, and That’s Awesome](https://thecoffeelicious.com/nothing-is-meant-to-be-and-thats-awesome-a2e03c2556f6)
----
-
-
-
-
-
-
-<!--
-
-[The OODA Loop: A Tool for Better Decision-Making](https://medium.com/personal-growth/the-ooda-loop-a-tool-for-better-decision-making-that-youre-already-using-ca24a3fa8c5c)
-
-
-
-
-[The Problem With Going Viral](https://thecoffeelicious.com/the-problem-with-going-viral-e59b78392e8)
-
-
-
-[On the Concept of a “Side Hustle”](https://hackernoon.com/on-the-concept-of-a-side-hustle-f4019f5f3790)
-
-
-
-[The 10 Commandments for Con-Artists](https://thecoffeelicious.com/the-10-commandments-for-con-artists-aeba18830eef)
-
-
-
-[How to Cultivate an Effective Gratitude Habit](https://medium.com/personal-growth/3-steps-to-practicing-better-gratitude-ba3c620e5b55)
-
-
-
-[A Few Useful Things I’ve Learned — No Fancy Title](https://thecoffeelicious.com/a-few-useful-things-ive-learned-no-fancy-title-c6a9ac70342f)
-
-
-[The Productive Power of the Wandering Mind](https://medium.com/personal-growth/in-defense-of-the-wandering-mind-f05d3611748e)
-
-
-[Write, To Remain Silent](https://writingcooperative.com/write-to-remain-silent-7dbb88f059a6)
-
-
-
-[Leverage the Difference Between “Doing” and “Getting Done”](https://medium.com/personal-growth/the-powerful-distinction-that-can-drastically-improve-your-productivity-92cefb75db6d)
-
-
-
-[The Real Power of “Inbox Zero”](https://medium.com/personal-growth/the-real-power-of-inbox-zero-d7b1c27862e0)
-
-
-
-
-[The Hunger of Our Time](https://medium.com/personal-growth/the-hunger-of-our-time-a0153a285f0)
-
+[The Paradox of Pursuit](https://thecoffeelicious.com/the-self-improvement-paradox-dfe2cb597c4c)
 
 
 [It’s Just Practice](https://medium.com/personal-growth/its-just-practice-70d6984022c3)
 
 
 
-[Your Work is Never Done](https://writingcooperative.com/your-work-is-never-done-7a22083688)
+[In our Rush to Be Great, Let's Not Forget to Be Good](https://medium.com/personal-growth/in-our-rush-to-be-great-lets-not-forget-to-be-good-2e6de54b2f9f)
 
 
-
-[Improvement, Not Success](https://writingcooperative.com/improvement-not-success-51917923b7c6)
-
-
-
-[On Survivorship Bias and the Pursuit of Dreams](https://medium.com/personal-growth/on-survivorship-bias-and-the-pursuit-of-dreams-6dfbf8fd2278)
-
-
-
-[What Has Free Speech Done to Us?](https://thecoffeelicious.com/what-has-free-speech-done-to-us-260f6be63f8c)
-
-
-
-[What a Pizza-Eating Champion Taught Me About Goals](https://medium.com/personal-growth/what-a-pizza-eating-champion-taught-me-about-goals-48d4182089c5)
-
-
-
-[Grand Theft Time](https://medium.com/hi-my-name-is-jon/grand-theft-time-a3f4e032ca25)
-
-
-
-[What Most Productivity Advice Misses](https://medium.com/personal-growth/the-mostly-missing-element-of-productivity-122da36bc4d7)
-
-
-
-[The Paradox of Pursuit](https://thecoffeelicious.com/the-self-improvement-paradox-dfe2cb597c4c)
-
-
-
-[What Self-Help and Inspirational Writers Might Never Want to Admit](https://medium.com/self-starter/what-self-help-and-inspirational-writers-might-never-want-to-admit-2baefa56f7b1)
-
-
-
-[Seek First to Understand](https://medium.com/personal-growth/seek-first-to-understand-8db03445dbf0)
-
-
-
-[Off Demand](https://hackernoon.com/off-demand-988ff984a819)
-
-
-
-[How Priorities Really Work](https://medium.com/personal-growth/how-priorities-really-work-df451a976563)
-
-
-
-[Writing As Soulcraft](https://writingcooperative.com/writing-as-soulcraft-b5a7cf76290a)
-
+---
+## Creativity
 
 
 [The Miyagi Method for Better Creative Work](https://writingcooperative.com/the-miyagi-method-for-creative-work-5e2a752fcda2)
 
 
+[Your Work is Never Done](https://writingcooperative.com/your-work-is-never-done-7a22083688)
 
-[We Forget to Breathe](https://medium.com/personal-growth/we-forget-to-breathe-66691a347164)
+---
+## Miscellanious/Commentary
+
+[The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
 
 
-[5 Things About Productivity and Success that I Learned from Watching Baseball](https://hackernoon.com/5-things-baseball-taught-me-about-productivity-and-success-70ad273a4aa9)
+[Nothing is Meant to Be, and That’s Awesome](https://thecoffeelicious.com/nothing-is-meant-to-be-and-thats-awesome-a2e03c2556f6)  
 
-[The Best Leaders Follow](https://entrepreneurs.maqtoob.com/the-best-leaders-follow-a060d4470fd4)
+
+[Off Demand](https://hackernoon.com/off-demand-988ff984a819)
+
+[What Has Free Speech Done to Us?](https://thecoffeelicious.com/what-has-free-speech-done-to-us-260f6be63f8c)
 
 [Self-Help Title Fails and the Sincerity Gap](https://writingcooperative.com/self-help-title-fails-ce3d58c83e39)
 
-[In our Rush to Be Great, Let's Not Forget to Be Good](https://medium.com/personal-growth/in-our-rush-to-be-great-lets-not-forget-to-be-good-2e6de54b2f9f)
 
-[What If You Invoiced Yourself for All of Your Time?](https://hackernoon.com/what-if-you-invoiced-yourself-for-all-of-your-time-eb0542277876)
-
-[It's Just Practice](https://medium.com/personal-growth/its-just-practice-70d6984022c3)
-
-[What Old-School Manufacturing Can Teach New-School Entrepreneurs](https://entrepreneurs.maqtoob.com/what-old-school-manufacturing-can-teach-entrepreneurs-dd8722342a5)
+[The 10 Commandments for Con-Artists](https://thecoffeelicious.com/the-10-commandments-for-con-artists-aeba18830eef)
 
 
-[The 3:1 Principle for Radically Better Communication](https://entrepreneurs.maqtoob.com/the-3-1-principle-for-radically-better-communication-9bae1e528abf)
+[The Hunger of Our Time](https://medium.com/personal-growth/the-hunger-of-our-time-a0153a285f0)
 
-[The Practical Case for Mercy](https://medium.com/personal-growth/the-practical-case-for-mercy-1a9b2c05048d)
 
-[Why Everyone Should Work in Food Service](https://theascent.biz/why-everyone-should-work-in-food-service-3e94fad2e2e3)
-
---->
+---
