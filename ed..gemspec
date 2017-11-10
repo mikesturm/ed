@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "ed."
   spec.version       = "0.1.1"
-  spec.authors       = ["Alex Gil"]
-  spec.email         = ["colibri.alex@gmail.com"]
+  spec.authors       = ["Mike Sturm"]
+  spec.email         = ["info@mikesturm.net"]
 
   spec.summary       = "A Jekyll theme for minimal editions"
-  spec.homepage      = "http://elotroalex.github.io/ed/"
+  
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|_texts|index|search|about|credits|documentation|atom|Gemfile|LICENSE|README)}i) }

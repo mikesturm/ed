@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Mike Sturm
+tagline:             'The Internet Home of Mike Sturm'
+description:         'Mike writes on the internet, in various places. This is his online home base.'
+url:                 'http://mikesturm.github.io'
+baseurl:             '/'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Mike Sturm
+  url:               https://twitter.com/aperfectsturm
+  email:             info@mikesturm.net
 
 # Permalinks
 
