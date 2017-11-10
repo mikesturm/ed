@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Mike Sturm
+title:               MikeSturm.net
 tagline:             'The Internet Home of Mike Sturm'
-description:         'Mike writes on the internet, in various places. This is his online home base.'
+description:         'I'm Mike Sturm. I write on the internet, in various places. This is my online home base.'
 url:                 'http://mikesturm.github.io'
 baseurl:             '/'
 
