@@ -5,7 +5,9 @@ author: Mike Sturm
 ---
 I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://us11.campaign-archive2.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:info@mikesturm.net). I'm open to coutnerarguments.
 
-Enjoy!
+Enjoy!  
+
+
 ---
 
 ## Contents
