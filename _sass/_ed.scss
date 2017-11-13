@@ -238,8 +238,8 @@ li.attribution {
 /* Images */
 
 img {
-  display: block;
-  max-width: 100%;
+  display: inline-block;
+  max-width: -webkit-fill-available;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
