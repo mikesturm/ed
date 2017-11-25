@@ -1,4 +1,4 @@
-# GTD^GS
+# GTD(GS)
 
 I have been interested in David Allen's *Getting Things Done* methodology for a long time. I have also long been a fan of productivity apps--for many platforms.
 
@@ -12,7 +12,7 @@ Below is the template that I designed for running my GTD system in Google Sheets
 
 I put in a decent amount of work on it, and would greatly appreciate any contributions from satisfied users of the template. You can do that by clicking the button below.
 
-<button name="button" onclick="paypal.me/mikesturm">Contribute</button>
+<button name="button" onclick="http://paypal.me/mikesturm">Contribute</button>
 
 Here is the link to the template:
 
