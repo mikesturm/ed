@@ -1,3 +1,9 @@
+layout: page
+title: GTD(GS)
+author: Mike Sturm
+###
+
+
 I have been interested in David Allen's *Getting Things Done* methodology for a long time. I have also long been a fan of productivity apps--for many platforms.
 
 My problem has been that I never found that one program that would work with GTD the way I do. Nothing seemed to work right--and I have tried *many* of them.
