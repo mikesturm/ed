@@ -23,4 +23,4 @@ The first tab should contain enough information to get you up and running, but i
 
 
   [hyperlink]: http://paypal.me/mikesturm
-  [image]: {{ site.baseurl }}/assets/contribute.png
+  [image]:/assets/contribute.png
