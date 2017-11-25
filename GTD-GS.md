@@ -15,17 +15,16 @@ I wrote a long piece featured in *Better Humans* about just how I use Google She
 
 Below is the template that I designed for running my GTD system in Google Sheets. 
 
+#### [Click here and save your own copy](https://docs.google.com/spreadsheets/d/15PUM1GRYXoXkuXDiGuWiF4ubWll441h8S-70ZnP25LM/edit?usp=sharing)
+
+The first tab should contain enough information to get you up and running, but if you have any questions, please feel free to [email me](mailto:info@mikesturm.net)
+
 I put in a decent amount of work on it, and would greatly appreciate any contributions from satisfied users of the template. You can do that by clicking the button below.
 
 
 [![contribute][image]][hyperlink]
 
 
-Here is the link to the template:
-
-#### [Click here and save your own copy](https://docs.google.com/spreadsheets/d/15PUM1GRYXoXkuXDiGuWiF4ubWll441h8S-70ZnP25LM/edit?usp=sharing)
-
-The first tab should contain enough information to get you up and running, but if you have any questions, please feel free to [email me](mailto:info@mikesturm.net)
 
 [hyperlink]: https://paypal.me/mikesturm
 [image]: /assets/contribute.png
