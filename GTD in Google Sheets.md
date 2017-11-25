@@ -1,5 +1,3 @@
-# GTD(GS)
-
 I have been interested in David Allen's *Getting Things Done* methodology for a long time. I have also long been a fan of productivity apps--for many platforms.
 
 My problem has been that I never found that one program that would work with GTD the way I do. Nothing seemed to work right--and I have tried *many* of them.
@@ -14,8 +12,15 @@ I put in a decent amount of work on it, and would greatly appreciate any contrib
 
 <button name="button" onclick="http://paypal.me/mikesturm">Contribute</button>
 
+[![contribute][image]][hyperlink]
+
 Here is the link to the template:
 
 [Click here and save your own copy](https://docs.google.com/spreadsheets/d/15PUM1GRYXoXkuXDiGuWiF4ubWll441h8S-70ZnP25LM/edit?usp=sharing)
 
 The first tab should contain enough information to get you up and running, but if you have any questions, please feel free to [email me](mailto:info@mikesturm.net)
+
+
+
+  [hyperlink]: http://paypal.me/mikesturm
+  [image]: https://mikesturm.net/assets/contribute.png
