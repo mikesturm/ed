@@ -245,6 +245,10 @@ img {
   border-radius: 5px;
 }
 
+img.mhead {
+  max-height: 3.75rem;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -304,6 +308,8 @@ h3.masthead-title {
 }
 
 
+
+
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
@@ -336,6 +342,9 @@ h3.masthead-title {
 .page-title {
   color: $heading-color;
   margin-top: 0;
+  margin-bottom: 2em;
+  text-align: center;
+  font-weight: 500;
 }
 
 
