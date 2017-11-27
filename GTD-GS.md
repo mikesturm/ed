@@ -1,9 +1,10 @@
----
+﻿---
 layout: page
 title: GTD(GS)
-subtitle: Getting Things Done with Google Sheets
 author: Mike Sturm
 ---
+
+<h2 class="subtitle">Implementing GTD in Google Sheets</h2>
 
 I have been interested in David Allen's *Getting Things Done* methodology for a long time. I have also long been a fan of productivity apps--for many platforms.
 
