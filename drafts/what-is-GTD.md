@@ -31,16 +31,16 @@ That's where the open loop is created. The something (or things) that you believ
 
 ### Expectations
 
-An expectation is basically a more evolved form of a desire. It's a mental attachment to a state of affairs that doesn't currently exist, but that you believe are going to. Unlike a desire, you may not want this state of affairs to exist--but you strongly believe it will.
+An expectation is basically a more evolved form of a desire. It's a mental attachment to a state of affairs that doesn't currently exist, but that you believe is going to. Unlike a desire, you may not *want** this state of affairs to exist--but you strongly believe it will.
 
 Expectations form open loops in a similar way to desires, in that they create a perceived amount of work that you feel you should be doing.
 
 - You expect X to happen
-- You  
+- There are specific things that you believe you should do to prepare for X
+-  There are knock-on effects that you anticipate--and either fear or welcome--once X happens
 
 
-The flavors of Open Loops
-
+## The Flavors of Open Loops
 
 ### Commitments
 
