@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Be, Think, Do
+subtitle: Deeper Essays on Personal Development and Productivity
 author: Mike Sturm
 ---
 <div style="text-align:center"><img src ="{{site.url}}{{site.baseurl}}/assets/cover.jpg" /></div>.
@@ -17,6 +18,9 @@ If you comb through the books, articles, and media on the topic of self-improvem
 - How to think
 - How to do
 
+[![buy-now][image]][hyperlink]
 
 
-<button name="button" onclick="https://www.amazon.com/dp/B07MQS2YHD">Buy Your Copy Here</button>
+
+[hyperlink]: https://www.amazon.com/dp/B07MQS2YHD
+[image]: /assets/buy-book.png
