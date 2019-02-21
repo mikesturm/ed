@@ -3,6 +3,7 @@ layout: page
 title: Be, Think, Do
 subtitle: Deeper Essays on Personal Development and Productivity
 author: Mike Sturm
+order: 3
 ---
 <div style="text-align:center"><img src ="{{site.url}}{{site.baseurl}}/assets/cover.jpg" /></div>.
 
@@ -10,7 +11,8 @@ author: Mike Sturm
 ![BTD Cover]({{site.url}}{{site.baseurl}}/assets/cover.jpg)
 -->
 
-## Distilling the Art and Science of Personal Growth Down to Its Elements  
+<h2 class="subtitle">Distilling the Art and Science of Personal Growth Down to Its Elements</h2>
+
 
 The journey has many names: personal growth, self-improvement, self-help. But everyone is familiar with it.
 It's a journey that so many of us begin, but that--if you do it right--it really doesn't end. It's been written about so often that one hesitates to add one more volume to the already towering stack of books about it. And yet, I did just that.

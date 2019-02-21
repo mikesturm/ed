@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: default
 title: Writing
 author: Mike Sturm
 ---
