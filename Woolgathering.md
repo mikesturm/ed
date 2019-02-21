@@ -1,6 +1,7 @@
 ﻿---
 layout: page
 title: Woolgathering
+order: 5
 ---
 ## Woolgathering: A weekly newsletter designed to make you think
 
