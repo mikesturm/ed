@@ -2,6 +2,7 @@
 layout: page
 title: GTD(GS)
 author: Mike Sturm
+order: 2
 ---
 
 <h2 class="subtitle">Implementing GTD in Google Sheets</h2>
@@ -14,7 +15,7 @@ Little did I know, the answer had been staring me in the face every day at my da
 
 I wrote a long piece featured in *Better Humans* about just how I use Google Sheets to run GTD, which [you can find here](https://betterhumans.coach.me/how-to-implement-a-killer-gtd-system-in-google-sheets-ad9c9857a8bd) (behind a metered paywall).
 
-Below is the template that I designed for running my GTD system in Google Sheets. 
+Below is the template that I designed for running my GTD system in Google Sheets.
 
 #### [Click here and save your own copy](https://docs.google.com/spreadsheets/d/15PUM1GRYXoXkuXDiGuWiF4ubWll441h8S-70ZnP25LM/edit?usp=sharing)
 

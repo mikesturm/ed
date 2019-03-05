@@ -2,6 +2,7 @@
 layout: page
 title: Recommended Reading
 author: Mike Sturm
+order: 4
 ---  
 
 
