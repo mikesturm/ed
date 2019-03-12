@@ -13,5 +13,5 @@ Sign up for *Woolgathering*&mdash;a weekly email crafted to help you think like 
 	<input type="text" name="hp" id="hp"/>
 	<input type="hidden" name="list" value="na833GQBpepzsQD1Wl3Gow"/>
 	<input type="hidden" name="subform" value="yes"/>
-	<button type="submit" class="btn btn-primary" name="submit" id="submit"/>
+	<button type="submit" class="btn btn-primary">Subscribe</button>
 </form>
