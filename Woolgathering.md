@@ -5,8 +5,8 @@ order: 5
 ---
 **wool·gath·er·ing** noun    
 \ˈwu̇l-ˌga-t͟h(ə-)riŋ\  
-indulgence in aimless thought or dreamy imagining; absentmindedness.  
-synonyms:	daydreaming, building castles in the air, reverie, musing, abstraction, preoccupation, brown study;
+*indulgence in aimless thought or dreamy imagining; absentmindedness.  
+synonyms:	daydreaming, building castles in the air, reverie, musing, abstraction, preoccupation, brown study.*
 
 The term *woolgathering* once referred to the act of roaming fields on a pasture to gather loose pieces of wool that had gotten caught in fences, bushes, or the like. At some point, it became a way to refer to the reveries of a wandering mind--the implication being that such wandering was ultimately unproductive. This newsletter exists as a challenge to that sentiment. Some of the best insights I've had come from my wandering mind. Here, I share them--and others--with you.
 
@@ -26,7 +26,7 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	<button type="submit" class="btn btn-primary">Subscribe</button>
 	</div>
 </form>
-
+</br>
 <div>
 <style type="text/css">
 .display_archive {font-size: 15px;}
