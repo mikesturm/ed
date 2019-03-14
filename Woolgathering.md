@@ -12,15 +12,13 @@ The term *woolgathering* once referred to the act of roaming fields on a pasture
 
 Each week--for the most part--I craft an email meant to help make you step back and think a bit. In it, I include a brief reflection on a broader topic to help stimulate your thought process. I also include links to newer pieces of writing I've crafted, as well as interesting links to other writing around the Internet.
 
-Below is a selected archive of *Woolgathering*. If you like what you read, and are not already subscribed, please consider [doing so](https://mikesturm.net/subscribe).
+Below are the archives of *Woolgathering*. If you like what you read, and are not already subscribed, please consider [doing so](https://mikesturm.net/subscribe).
 
 <div>
 <style type="text/css">
 .display_archive {font-size: 15px;}
 .campaign {line-height: 110%; margin: 5px;}
 </style>
-<script language="javascript" src="//yourfool.us11.list-manage.com/generate-js/?u=90261a3476981959e9fb98a34&fid=11633&show=100" type="text/javascript"></script>
-<script language="javascript" src="https://tinyletter.com/mike_sturm/archive&show=50" type="text/javascript"></script>
-
-
 </div>
+
+### [View Older Newsletters](https://tinyletter.com/mike_sturm/archive)
