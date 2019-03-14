@@ -12,7 +12,20 @@ The term *woolgathering* once referred to the act of roaming fields on a pasture
 
 Each week--for the most part--I craft an email meant to help make you step back and think a bit. In it, I include a brief reflection on a broader topic to help stimulate your thought process. I also include links to newer pieces of writing I've crafted, as well as interesting links to other writing around the Internet.
 
-Below is a selected archive of *Woolgathering*. If you like what you read, and are not already subscribed, please consider [doing so](https://mikesturm.net/subscribe).
+Below is a selected archive of *Woolgathering*. If you like what you read, and are not already subscribed, please consider doing so below.
+
+<form action="http://email.mikesturm.net/subscribe" method="POST" accept-charset="utf-8">
+<div class="form-group" align="center">
+	<label for="exampleInputEmail1">Email</label>
+	<input type="email" name="email" id="email"/>
+	</div>
+<br/>
+<div align="center">
+	<input type="hidden" name="list" value="na833GQBpepzsQD1Wl3Gow"/>
+	<input type="hidden" name="subform" value="yes"/>
+	<button type="submit" class="btn btn-primary">Subscribe</button>
+	</div>
+</form>
 
 <div>
 <style type="text/css">
