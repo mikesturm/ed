@@ -1,6 +1,7 @@
 ﻿---
 layout: page
 title: Woolgathering
+permalink: /woolgathering/
 order: 5
 ---
 **wool·gath·er·ing** noun    
