@@ -1,6 +1,7 @@
 ---
 layout: default
 title: subscribe
+permalink: /subscribe/
 ---
 
 ## Pulling together the threads to weave a better, more productive life.
