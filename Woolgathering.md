@@ -28,6 +28,27 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	</div>
 </form>
 <br>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woolgathering Archives</title>
+    <description> --- </description>
+    <link>http://email.mikesturm.net/campaigns-rss?a=mflMmqmg7YqIR6sKB10nCF8aBfQV4p&i=1</link>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ site.url }}/{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
+
+
+
 <div>
 <style type="text/css">
 .display_archive {font-size: 15px;}
