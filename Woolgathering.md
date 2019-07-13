@@ -28,13 +28,11 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	</div>
 </form>
 <br>
-<<<<<<< HEAD
 5/28/19 - **[Woolgathering #97: Impermanence: A User's Guide](http://email.mikesturm.net/w/5F8pgyQpQ6kt7VoZ85bwRw)**
 4/30/19 - **[Woolgathering #96: Active vs. Passive Goals, and Why the Difference Matters](http://email.mikesturm.net/w/E1mBh8z892xQJ1eiqRP892QSNQ)**  
 4/17/19 - **[Woolgathering #95: Selling and Living](http://email.mikesturm.net/w/JBiEka819vZx763dO8922A4b7g)**  
 4/2/19 - **[Woolgathering #94: Plato on Better Companies and Better People](http://email.mikesturm.net/w/fmDUVe1W1PVUXaHPy8vjoQ)**  
 3/18/19 - **[Woolgathering #93: The Concept of Meaningful Work](http://email.mikesturm.net/w/na833GQBpepzsQD1Wl3Gow)**  
-=======
 
 
 
