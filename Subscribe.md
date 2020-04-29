@@ -29,4 +29,3 @@ Sign up for *Woolgathering*&mdash;a weekly email crafted to help you think like 
 If you'd like to check out past issues, <a href="http://feeds.feedburner.com/mikesturm/VuQb">see a few here</a>.
 <br>
 
-</div>  
