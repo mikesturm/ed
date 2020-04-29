@@ -28,22 +28,8 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	</div>
 </form>
 <br>
-<script src="http://feeds.feedburner.com/mikesturm/VuQb?format=sigpro" type="text/javascript" ></script>
+## To view the most recent editions of *Woolgathering* [click here](http://feeds.feedburner.com/mikesturm/VuQb).
 
-<div>
-<style type="text/css">
-.display_archive {font-size: 15px;}
-.campaign {line-height: 110%; margin: 5px;}
-</style>
-<script src="http://feeds.feedburner.com/mikesturm/VuQb?format=sigpro" type="text/javascript" ></script>
-</div>
+## [View older editions here](https://us11.campaign-archive.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762)
 
-<div>
-<style type="text/css">
-.display_archive {font-size: 15px;}
-.campaign {line-height: 110%; margin: 5px;}
-</style>
-<script language="javascript" src="//yourfool.us11.list-manage.com/generate-js/?u=90261a3476981959e9fb98a34&fid=11633&show=100" type="text/javascript"></script>
-</div>  
-
-## [View Even Older Editions](https://tinyletter.com/mike_sturm/archive)
+## [View *even older* editions here](https://tinyletter.com/mike_sturm/archive)
