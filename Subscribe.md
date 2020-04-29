@@ -26,11 +26,7 @@ Sign up for *Woolgathering*&mdash;a weekly email crafted to help you think like 
 	</div>
 </form>
 <br>
-If you'd like to check out past issues, see a few below.
+If you'd like to check out past issues, <a href="http://feeds.feedburner.com/mikesturm/VuQb">see a few here</a>.
 <br>
-<div>
-<style type="text/css"  media="all">
-<script language="JavaScript" src="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=http%3A%2F%2Ffeeds.feedburner.com%2Fmikesturm%2FVuQb&amp;date=y&amp;targ=y" type="text/javascript"></script>
 
-</style>
 </div>  
