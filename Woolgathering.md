@@ -30,7 +30,13 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 <br>
 <script src="http://feeds.feedburner.com/mikesturm/VuQb?format=sigpro" type="text/javascript" ></script>
 
-
+<div>
+<style type="text/css">
+.display_archive {font-size: 15px;}
+.campaign {line-height: 110%; margin: 5px;}
+</style>
+<script src="http://feeds.feedburner.com/mikesturm/VuQb?format=sigpro" type="text/javascript" ></script>
+</div>
 
 <div>
 <style type="text/css">
