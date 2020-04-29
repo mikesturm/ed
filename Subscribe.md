@@ -29,9 +29,10 @@ Sign up for *Woolgathering*&mdash;a weekly email crafted to help you think like 
 If you'd like to check out past issues, see a few below.
 <br>
 <div>
-<style type="text/css">
-.display_archive {font-size: 16px;}
-.campaign {line-height: 110%; margin: 5px;}
-</style>
-<script language="javascript" src="//yourfool.us11.list-manage.com/generate-js/?u=90261a3476981959e9fb98a34&fid=11633&show=10" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=http%3A%2F%2Ffeeds.feedburner.com%2Fmikesturm%2FVuQb&amp;date=y&amp;targ=y" type="text/javascript"></script>
+
+<noscript>
+<a href="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=http%3A%2F%2Ffeeds.feedburner.com%2Fmikesturm%2FVuQb&amp;date=y&amp;targ=y&amp;html=y">View RSS feed</a>
+</noscript>
+
 </div>  
