@@ -29,10 +29,11 @@ Sign up for *Woolgathering*&mdash;a weekly email crafted to help you think like 
 If you'd like to check out past issues, see a few below.
 <br>
 <div>
+<style type="text/css"  media="all">
 <script language="JavaScript" src="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=http%3A%2F%2Ffeeds.feedburner.com%2Fmikesturm%2FVuQb&amp;date=y&amp;targ=y" type="text/javascript"></script>
 
 <noscript>
 <a href="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=http%3A%2F%2Ffeeds.feedburner.com%2Fmikesturm%2FVuQb&amp;date=y&amp;targ=y&amp;html=y">View RSS feed</a>
 </noscript>
-
+</style>
 </div>  
