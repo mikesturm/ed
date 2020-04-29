@@ -28,7 +28,7 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	</div>
 </form>
 <br>
-<script src="http://feeds.feedburner.com/mikesturm/VuQb?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/mikesturm/VuQb"></a><br/>Powered by FeedBurner</p> </noscript>
+<script src="http://feeds.feedburner.com/mikesturm/VuQb?format=sigpro" type="text/javascript" ></script>
 
 
 
