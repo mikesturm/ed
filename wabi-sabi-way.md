@@ -23,4 +23,6 @@ This beginner’s guide to wabi sabi can help you to:
 - Essential lessons to living an inspired existence come alive in The Wabi-Sabi Way.
 
 
-
+### Pick up your copy at one of these fine booksellers  
+  
+- [![Alt text]({{site.url}}{{site.baseurl}}/assets/BN_logo.png")](https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269)
