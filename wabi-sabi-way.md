@@ -27,5 +27,5 @@ This beginner’s guide to wabi sabi can help you to:
 
 <div>
   <a href="https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269" rel="Barnes & Noble"><img src="{{site.url}}{{site.baseurl}}/assets/BN_logo.png" alt="" style="width:200px;" /></a>
-   <a href="https://www.amazon.com/Wabi-sabi-Way-Principles-Meaning-Authenticity/dp/1641528265/" rel="Amazon"><img src="{{site.url}}{{site.baseurl}}/assets/Amazon_logo.png" alt="" style="width:200px;" /></a>
+   <a href="https://www.amazon.com/Wabi-sabi-Way-Principles-Meaning-Authenticity/dp/1641528265/" rel="Amazon"><img src="{{site.url}}{{site.baseurl}}/assets/amazon_logo.png" alt="" style="width:200px;" /></a>
   
