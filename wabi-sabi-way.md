@@ -16,12 +16,12 @@ order: 6
    <a href="https://www.booksamillion.com/p/Wabi-Sabi-Way/Mike-Sturm/9781641528269?id=7881966614925" rel="BAM!"><img src="{{site.url}}{{site.baseurl}}/assets/BAM_logo.png" alt="Books-A-Million" style="width:200px;" /></a>
   &nbsp;
   <a href="https://www.indiebound.org/book/9781641528269" rel="Indiebound"><img src="{{site.url}}{{site.baseurl}}/assets/Indiebound.png" alt="Indiebound" style="width:200px;" /></a>
-  
+  <br>
   <a href="https://www.chapters.indigo.ca/en-ca/home/search/?keywords=the%20wabi-sabi%20way#internal=1" rel="Indigo"><img src="{{site.url}}{{site.baseurl}}/assets/Indigo_logo.png" alt="" style="width:200px;" /></a>
 </div>.
 
 
-<h2 class="subtitle">A Practical Guide to Putting the Japanese Philosophy of Wabi-Sabi to Work In Your Life</h2>
+<h2>A Practical Guide to Putting the Japanese Philosophy of Wabi-Sabi to Work In Your Life</h2>
 
 
 With deep roots in Taoism, Shinto, and Buddhism, wabi sabi is a philosophical and spiritual stance that celebrates imperfection, impermanence, contentment, detachment, and natural beauty. The Wabi-Sabi Way can show you how to harness these ancient teachings to help relieve stress and anxiety in your daily life.
