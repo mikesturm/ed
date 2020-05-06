@@ -7,8 +7,16 @@ order: 6
 <div style="text-align:center">
 
   <h1>Arriving in stores and online June 9th, 2020.</h1>
+  <h2>Preorder now at one of these booksellers:</h2>
     <br>
 <img src ="{{site.url}}{{site.baseurl}}/assets/9781641528269_EA.jpg" alt="cover" style="max-height: 20rem;"/>
+ <a href="https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269" rel="Barnes & Noble"><img src="{{site.url}}{{site.baseurl}}/assets/BN_logo.png" alt="Barnes&Noble" style="width:200px;" /></a>
+   <a href="https://www.amazon.com/Wabi-sabi-Way-Principles-Meaning-Authenticity/dp/1641528265/" rel="Amazon"><img src="{{site.url}}{{site.baseurl}}/assets/amazon_logo.png" alt="Amazon" style="width:200px;" /></a>
+   <a href="https://www.booksamillion.com/p/Wabi-Sabi-Way/Mike-Sturm/9781641528269?id=7881966614925" rel="BAM!"><img src="{{site.url}}{{site.baseurl}}/assets/BAM_logo.png" alt="Books-A-Million" style="width:200px;" /></a>
+  &nbsp;
+  <a href="https://www.indiebound.org/book/9781641528269" rel="Indiebound"><img src="{{site.url}}{{site.baseurl}}/assets/Indiebound.png" alt="Indiebound" style="width:200px;" /></a>
+  
+  <a href="https://www.chapters.indigo.ca/en-ca/home/search/?keywords=the%20wabi-sabi%20way#internal=1" rel="Indigo"><img src="{{site.url}}{{site.baseurl}}/assets/Indigo_logo.png" alt="" style="width:200px;" /></a>
 </div>.
 
 
@@ -27,16 +35,8 @@ This beginner’s guide to wabi sabi can help you to:
 - Essential lessons to living an inspired existence come alive in The Wabi-Sabi Way.
 
 
-### Pick up your copy at one of these fine booksellers  
 
-<div>
-  <a href="https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269" rel="Barnes & Noble"><img src="{{site.url}}{{site.baseurl}}/assets/BN_logo.png" alt="Barnes&Noble" style="width:200px;" /></a>
-   <a href="https://www.amazon.com/Wabi-sabi-Way-Principles-Meaning-Authenticity/dp/1641528265/" rel="Amazon"><img src="{{site.url}}{{site.baseurl}}/assets/amazon_logo.png" alt="Amazon" style="width:200px;" /></a>
-   <a href="https://www.booksamillion.com/p/Wabi-Sabi-Way/Mike-Sturm/9781641528269?id=7881966614925" rel="BAM!"><img src="{{site.url}}{{site.baseurl}}/assets/BAM_logo.png" alt="Books-A-Million" style="width:200px;" /></a>
-  &nbsp;
-  <a href="https://www.indiebound.org/book/9781641528269" rel="Indiebound"><img src="{{site.url}}{{site.baseurl}}/assets/Indiebound.png" alt="Indiebound" style="width:200px;" /></a>
-  
-  <a href="https://www.chapters.indigo.ca/en-ca/home/search/?keywords=the%20wabi-sabi%20way#internal=1" rel="Indigo"><img src="{{site.url}}{{site.baseurl}}/assets/Indigo_logo.png" alt="" style="width:200px;" /></a>
+ 
   
   
   
