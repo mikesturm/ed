@@ -24,5 +24,7 @@ This beginner’s guide to wabi sabi can help you to:
 
 
 ### Pick up your copy at one of these fine booksellers  
+
+<div>
+  <a href="https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269" rel="Barnes & Noble"><img src="{{site.url}}{{site.baseurl}}/assets/BN_logo.png" alt="" /></a>.
   
-- [![Alt text]({{site.url}}{{site.baseurl}}/assets/BN_logo.png")](https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269)
