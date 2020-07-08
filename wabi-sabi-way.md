@@ -6,6 +6,7 @@ order: 6
 ---
 <div style="text-align:center">
 
+<h2>A guide to living life simply, sincerely, and wisely. The ancient Japanese concept of <i>wabi-sabi</i> can become your touchpoint to a more fulfilling approach to life.</h2>
 
 <img src ="{{site.url}}{{site.baseurl}}/assets/9781641528269_EA.jpg" alt="cover" style="max-height: 20rem;"/>
   <h1>Buy a copy at one of these booksellers:</h1>
