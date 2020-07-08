@@ -6,10 +6,9 @@ order: 6
 ---
 <div style="text-align:center">
 
-  <h1>Arriving in stores and online June 9th, 2020.</h1>
 
 <img src ="{{site.url}}{{site.baseurl}}/assets/9781641528269_EA.jpg" alt="cover" style="max-height: 20rem;"/>
-  <h2>Preorder now at one of these booksellers:</h2>
+  <h1>Buy a copy at one of these booksellers:</h1>
   <br>
  <a href="https://www.barnesandnoble.com/w/the-wabi-sabi-way-mike-sturm/1136858021?ean=9781641528269" rel="Barnes & Noble"><img src="{{site.url}}{{site.baseurl}}/assets/BN_logo.png" alt="Barnes&Noble" style="width:200px;" /></a>
    <a href="https://www.amazon.com/Wabi-sabi-Way-Principles-Meaning-Authenticity/dp/1641528265/" rel="Amazon"><img src="{{site.url}}{{site.baseurl}}/assets/amazon_logo.png" alt="Amazon" style="width:200px;" /></a>
