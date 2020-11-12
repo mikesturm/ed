@@ -21,7 +21,7 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	<input type="email" name="email" id="email"/>
 	</div>
 <br/>
-<div align="center">
+<div align="center" style="font-size: 13px;">
 	<input type="checkbox" name="gdpr" id="gdpr"/>
 <span><strong>Marketing permission</strong>: I give my consent to Mike Sturm to be in touch with me via email using the information I have provided in this form for the purpose of news, updates and marketing.</span>
 <br/><br/>
@@ -34,6 +34,7 @@ I don't collect any information other than what you've explicitly given me, and 
 	<input type="hidden" name="list" value="na833GQBpepzsQD1Wl3Gow"/>
 	<input type="hidden" name="subform" value="yes"/>
 	<input type="submit" name="submit" id="submit"/>
+	</div>
 </form>
 <br>
 ## To view the most recent editions of *Woolgathering* [click here](http://feeds.feedburner.com/mikesturm/VuQb).
