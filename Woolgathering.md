@@ -15,7 +15,7 @@ Each week--for the most part--I craft an email meant to help make you step back 
 
 Below is a selected archive of *Woolgathering*. If you like what you read, and are not already subscribed, please consider doing so here.
 <br>
-<form action="http://email.mikesturm.net/subscribe" method="POST" accept-charset="utf-8">
+<form action="http://email.mikesturm.net/sendy/subscribe" method="POST" accept-charset="utf-8">
 <div class="form-group" align="center">
 	<label for="exampleInputEmail1">Email</label>
 	<input type="email" name="email" id="email"/>
