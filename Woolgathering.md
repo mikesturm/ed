@@ -22,10 +22,18 @@ Below is a selected archive of *Woolgathering*. If you like what you read, and a
 	</div>
 <br/>
 <div align="center">
+	<input type="checkbox" name="gdpr" id="gdpr"/>
+<span><strong>Marketing permission</strong>: I give my consent to Mike Sturm to be in touch with me via email using the information I have provided in this form for the purpose of news, updates and marketing.</span>
+<br/><br/>
+<span><strong>What to expect</strong>: If you wish to withdraw your consent and stop hearing from me, simply click the unsubscribe link at the bottom of every email I send or contact me at mike@mikesturm.net. 
+I don't collect any information other than what you've explicitly given me, and I won't do so without your express consent in the future.</span>
+<br/><br/><div style="display:none;">
+	<label for="hp">HP</label><br/>
+	<input type="text" name="hp" id="hp"/>
+	</div>
 	<input type="hidden" name="list" value="na833GQBpepzsQD1Wl3Gow"/>
 	<input type="hidden" name="subform" value="yes"/>
-	<button type="submit" class="btn btn-primary">Subscribe</button>
-	</div>
+	<input type="submit" name="submit" id="submit"/>
 </form>
 <br>
 ## To view the most recent editions of *Woolgathering* [click here](http://feeds.feedburner.com/mikesturm/VuQb).
