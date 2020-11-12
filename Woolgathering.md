@@ -37,8 +37,8 @@ I don't collect any information other than what you've explicitly given me, and 
 	</div>
 </form>
 <br>
-## To view the most recent editions of *Woolgathering* [click here](http://feeds.feedburner.com/mikesturm/VuQb).
+## [View recent editions here.](http://feeds.feedburner.com/mikesturm/VuQb).
 
-## [View older editions here](https://us11.campaign-archive.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762)
+## [View older editions here.](https://us11.campaign-archive.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762)
 
-## [View *even older* editions here](https://tinyletter.com/mike_sturm/archive)
+## [View *even older* editions here.](https://tinyletter.com/mike_sturm/archive)
