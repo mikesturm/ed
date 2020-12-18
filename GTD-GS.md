@@ -21,7 +21,8 @@ Below is the template that I designed for running my GTD system in Google Sheets
 
 The first tab should contain enough information to get you up and running, but if you have any questions, please feel free to [email me](mailto:info@mikesturm.net)
 
-I put in a decent amount of work on it, and would greatly appreciate any contributions from satisfied users of the template. You can do that by clicking the button below.
+If you try out the sheet, the course, or both, and you like it, consider a contribution to my coffee fund. 
+You can do that by clicking the button below.
 
 
 [![contribute][image]][hyperlink]
