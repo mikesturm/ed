@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: default
 title: Operating Principles
 author: Mike Sturm
 
