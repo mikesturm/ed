@@ -2,7 +2,7 @@
 layout: page
 title: Operating Principles
 author: Mike Sturm
-order: 6
+
 ---  
 
 ## A Manual of Things I Take to Be True
