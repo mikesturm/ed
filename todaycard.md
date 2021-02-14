@@ -21,7 +21,8 @@ It's easy to get started. All you need is a 3 x 5" lined index card (though othe
 
 1. Grab and index card and make it look like the picture below:
 
-<img src ="{{site.url}}{{site.baseurl}}/assets/card-setup.HEIC" alt="cover" style="max-height: 25rem;"/>
+<img src ="{{site.url}}{{site.baseurl}}/assets/Card-Setup.HEIC" alt="cover" style="max-height: 25rem;"/>
+
 
 - Use whatever format you like for the date, just so long as you caputre both the day and date—as well as the year (which becomes important once you've been using this sytem for a long time).
 
