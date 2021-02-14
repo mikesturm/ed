@@ -1,11 +1,11 @@
 ---
 layout: default
 title: The Today Card
-subtitle: A Simple, Yet Scalable Personal Productivity System
 author: Mike Sturm
 ---
+## A Simple, Yet Scalable Personal Productivity System
 
-## What does it mean to be productive *today*?
+# What does it mean to be productive *today*?
 
 The Today Card is a simple productivity system that arms you with a way to answer that question. It's both a way to motivate you to be more productive, as well as a way to measure your productivity each day. It essentially does 3 key things:
 
@@ -15,9 +15,9 @@ The Today Card is a simple productivity system that arms you with a way to answe
 
 It's easy to get started. All you need is a 3 x 5" lined index card (though other sizes can work), a piece of scratch paper, and something to write with.
 
-## Getting Started
+# Getting Started
 
-### Prep Your Card
+## Prep Your Card
 
 1. Grab and index card and make it look like the picture below:
 
@@ -26,7 +26,7 @@ It's easy to get started. All you need is a 3 x 5" lined index card (though othe
 
 - The "P" and "E" columns to the far right should be only big enough to fit a single-digit number in each, but not bigger. You'll want as much space to the left of them as you can have.
 
-### Get Priroitizing
+## Get Priroitizing
 
 2. Grab a piece of paper and write down a list of the things that you believe are important to get done today—in no particular order.
 3. 
