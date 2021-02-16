@@ -53,12 +53,14 @@ If you made an honest effort, but only got the task halfway done, you can earn h
 
 As you complete the most important tasks on the list, you get points. As you complete lower priority items on the list, you get points—but not as many as for the higher priority items.
 
-At the end of the day, add up your 
+At the end of the day, add up your earned points and place that number in the bottom of the "E" column. Divide by the total number of "P" points. Place that decimal (highest score being 1.000) in the box at the center bottom. That decimal is your score for the day. It's your win %. It tells you how well you did at doing the things you identified as most important to you today.
 
 
 ## Review and Vow
 
 Review the items on your card in order.
+
+
 
 ## Score Yourself
 Now comes the fun part.
@@ -73,6 +75,10 @@ Now comes the fun part.
 
 
 # FAQ
+
+## Why an index card? Why not just a to-do list in a notebook or on an app?
+
+
 
 ## What goes on the card?
 This is a simple question, but it's the most difficult to answer. The purpose of the card is to keep you focused on the important things that you could be doing today. Part of that is focusing on things that you wouldn't normally focus on.
