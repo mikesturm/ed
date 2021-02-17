@@ -22,7 +22,7 @@ It's a way to motivate you to be more productive, as well as a way to measure yo
 
 It's easy to get started. Just grab a lined index card and something to write with.
 
-# Day 1: Getting Started
+# Level 1: Getting Started
 
 In its simplest form, the Today Card system centers around these 6 activities:
 
@@ -57,7 +57,7 @@ Grab a lined 3x5 index card and make it look like the picture below:
 
 4. Place a number "2" on the next line, and place the 2nd most important task on the line. It's the task that if you could only do 2 things today, would be right behind the first item you wrote down.
 
-5. Repeat steps 1 and 2 for as many items as you deem important for you to do today. One task per line. Your limit is 9.
+5. Repeat steps 1 and 2 for as many items as you deem important for you to do today. One task per line. Your limit is 9 (for thoughts on why, check the FAQ below).
 
 6. Once you have all the items on your card, place the number of the last item on your list in the "P" column of the first item. For instance, if you have 7 items on your list, item 1 gets 7. Item 2 gets 6, and so on down to item 7—which gets 1.
 
@@ -100,9 +100,9 @@ Add up your earned points and place that number in the bottom of the "E" column.
 
 
 
-# Day 2 - Building Out
+# Level 2 - Building Out
 
-After day 1, your main focus will be around 3 things:
+After Level 1, you'll benefit from building out a minimal system around the daily card.
 
 1. Solidifying the habit of filling out the card each morning.
 2. Keeping track of the potential items that could go on a card for any given day.
@@ -131,13 +131,16 @@ Your M.E.P.S consists of 3 simple components:
 
 
 ## Use the M.E.P.S to get the most out of your card
-In Day 1, I talked about making sure the first few items are really important ones to you. Building and maintaining a M.E.P.S makes it much easier to decide which items go on your card and in what order. The first 2 actions on your card (the ones with the highest point values) should be ones that relate to projects in the (G) category on your project list. The reason for this is that you should earn the most points for working on what moves *your* goals forward. That's what this system is all about.
+In Level 1, I talked about making sure the first few items are really important ones to you. Building and maintaining a M.E.P.S makes it much easier to decide which items go on your card and in what order. The first 2 actions on your card (the ones with the highest point values) should be ones that relate to projects in the (G) category on your project list. The reason for this is that you should earn the most points for working on what moves *your* goals forward. That's what this system is all about.
 
 Once you have a master action list and a project list categorized into (G) and (NG) projects, you can do some next-level card-creation.
 
 It also helps to divide your big list of next actions into 3 relative timeframes: next few days, this week, next week and after. I've found this to be enough to help me pre-priotitize what's on my plate. This way, I don't have to look at a huge list of what *could* go on my card each day. I'm most likely going to pull things from the *next few days* category first.
 
 Perhaps the most helpful thing you can do to get the most out of the Today Card is a weekly recap. You score yourself each day, but recording your score over the week--and comparing it with the previous week--can help you understand how you're doing, and where you need to make adjustments. Reviewing your master action list and doing some scheduling is also helpful. And of course, reviewing your list of projects, to see if any new actions need to happen. That's also going to help.
+
+## The Back of the card
+After Level 1--where you have your master action list--the back of the card becomes free for other things. I use mine for a combination of notes about the day, "drop-in" tasks I did that were important, but not on the front of the card, or things to remember. But it's free for whatever use you decide.
 
 
 
