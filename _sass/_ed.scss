@@ -139,14 +139,15 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     color: #841212;
 	margin-top: 1.75rem;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	font-weight: 600;
 }
 
 h1.text-title {
     color: #841212;
+	text-align; center;
 	margin-top: 1.75rem;
-	font-size: 1.8rem;
+	font-size: 2.5rem;
 	font-weight: 600;
 }
 
@@ -154,22 +155,23 @@ h2.subtitle {
 	margin-top: 1.25rem;
     text-align: center;
     font-weight: bold;
-    margin-bottom: 2rem;
+    margin-bottom: 2.2rem;
     margin-top: -2rem;
+	font-style: italic;
 }
 
 h2 {
 	margin-top: 1.5rem;
-	font-size: 1.6rem;
+	font-size: 2rem;
 	font-weight: bold;
-	font-style: italic;
+	
 }
 
 
 
 h3 {
     color: #170202;
-	font-size: 1.4rem;
+	font-size: 1.6rem;
   margin-top: 1.5rem;
 	
 
