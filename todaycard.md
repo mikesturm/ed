@@ -49,7 +49,7 @@ Grab a lined 3x5 index card and make it look like the picture below:
 
 1. Flip the index card to the unlined side, and position it like so:
 
-![back]({{site.url}}{{site.baseurl}}/assets/portrait-card.png)
+    ![back]({{site.url}}{{site.baseurl}}/assets/portrait-card.png)
 
  2. Take 5 minutes and write on that blank side of the card a list of the things that you believe are important to get done today—in no particular order. By "important" I mean things that may not be urgent, but things that will move forward your most worthy goals or projects. *(note: If you're already using another productivity system or have a list of actions to do, you can simply pull items from that pre-existing list)*
 
