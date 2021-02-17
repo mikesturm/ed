@@ -74,15 +74,6 @@ A *push* item is one that you need to make happen, as opposed to going to a meet
 - Favor items that take longer than 15 minutes.
 This isn’t a hard and fast rule, but it’s usually the best way to go. An exception is when a really important but difficult task might only take 5 minutes, but you really have to push yourself to do it. By all means, put it on the card. But I’ve found those instances are rare. Reserve the card for the things that take a decent amount of your day’s free time and energy.
 
-
-## Score Yourself
-A primary feature of the card is the points system. The "P" column is your possible points for today. The "E" column is your earned points. When you complete a task, cross it off and put the amount of points earned in the "E" column. 
-
-If you made an honest effort, but only got the task halfway done, you can earn half the point value in the "P" column. So if you had 7 tasks for the day, and you were working on task #1 (which is worth 7 points), but you didn't get it totally completed, you can put 3.5 in the "E" column. I've found that this mitigates the possible harmful effects of all-or-nothing thinking that already derail so much of our productivity efforts.
-
-As you complete the most important tasks on the list, you get points. As you complete lower priority items on the list, you get points—but not as many as for the higher priority items.
-
-
 ## Review and Vow
 
 Review the items on your card in order.Take a deep breath in, and let it out slowly. Let it sink in that if you follow what's on this card, you can feel really good about how your day went. Vow to yourself that this card will be your guide for the day. Commit to looking at it for guidance on what to work on next.
@@ -90,6 +81,13 @@ Review the items on your card in order.Take a deep breath in, and let it out slo
 
 Now Get to work.
 
+
+## Using the Scoring System
+A primary feature of the card is the points system. The "P" column is your possible points for today. The "E" column is your earned points. When you complete a task, cross it off and put the amount of points earned in the "E" column. 
+
+If you made an honest effort, but only got the task halfway done, you can earn half the point value in the "P" column. So if you had 7 tasks for the day, and you were working on task #1 (which is worth 7 points), but you didn't get it totally completed, you can put 3.5 in the "E" column. I've found that this mitigates the possible harmful effects of all-or-nothing thinking that already derail so much of our productivity efforts.
+
+As you complete the most important tasks on the list, you get points. As you complete lower priority items on the list, you get points—but not as many as for the higher priority items.
 
 
 ## The End of the Day
@@ -104,15 +102,41 @@ Add up your earned points and place that number in the bottom of the "E" column.
 
 # Day 2 - Building Out
 
+After day 1, your main focus will be around 3 things:
 
+1. Solidifying the habit of filling out the card each morning.
+2. Keeping track of the potential items that could go on a card for any given day.
+3. Using your score each day as a way to refine what you put on the card the next day.
+
+
+## Build a M.E.P.S
+
+The central component is the card. If you just do the card, that's fine. But it helps to have a system external to the day's card that feeds the right actions and priority levels into the process of filling out the card each day. It helps to have what I call a M.E.P.S (a Minimal External Productivity System). The good news is, you have the start of one already! It's whatever actions remain undone from the front and back of Day 1's card.
+
+Your M.E.P.S consists of 2 simple components:
+
+- A master list of actions you want to get done
+- A list of projects that those actions serve, in 2 categories:
+     (G) Goal-related. It serves a goal of yours.
+     (NG) Mon-goal related. It's just something you need to get done.
+
+
+## Use the M.E.P.S to get the most out of your card
+Once you have a master action list and a project list categorized into (G) and (NG) projects, you can do some next-level card-creation.
+
+In Day 1, I talked about making sure the first few items are really important ones to you. Building and maintaining a M.E.P.S makes it much easier to decide which items go on your card and in what order. The first 2 actions on your card (the ones with the highest point values) should be ones that relate to projects in the (G) category on your project list. The reason for this is that you should earn the most points for working on what moves *your* goals forward. That's what this system is all about. 
 
 
 # FAQ
 
-## Why an index card? Why not just a to-do list in a notebook or on an app?
+### Why an index card? Why not just a to-do list in a notebook or on an app?
 
 
-## Why only 9 items?
+### Why only 9 items?
 
-## How many items should I put on my card?
+### How many items should I put on my card?
 There's no easy answer to this question. 
+
+### Can I integrate something like timeblocking into the card?
+
+### Can I use the Today Card while using another productivity system (GTD, Bullet Journal, etc.)?
