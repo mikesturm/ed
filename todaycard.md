@@ -7,7 +7,7 @@ author: Mike Sturm
 
 ### A Simple, Yet Scalable Personal Productivity System
 
-# All You Need Is An Index Card
+# All You Need Is An Index Card and a Few Minutes
 
 The Today Card is a productivity system designed around the simplest of tools: a 3 x 5 index card. It’s a card that starts as a simple task list, but becomes a whole lot more.
 
@@ -36,7 +36,7 @@ In its simplest form, the Today Card system centers around these 6 activities:
 
 Grab a lined 3x5 index card and make it look like the picture below:
 
-<img src ="{{site.url}}{{site.baseurl}}/assets/Card-Setup.png" alt=“front” style="max-height: 25rem;"/>
+<img src="{{site.url}}{{site.baseurl}}/assets/Card-Setup.png" alt=“front” style="max-height: 25rem;"/>
 
 
 - Use whatever format you like for the date, just so long as you capture both the day and date—as well as the year (which becomes important once you've been using this system for a long time).
@@ -48,7 +48,7 @@ Grab a lined 3x5 index card and make it look like the picture below:
 
 1. Flip the index card to the unlined side, and position it like so:
 
-<img src ="{{site.url}}{{site.baseurl}}/assets/portrait-card.png" alt=“back” style="max-height: 25rem;"/>
+<img src="{{site.url}}{{site.baseurl}}/assets/portrait-card.png" alt=“back” style="max-height: 25rem;"/>
 
  2. Take 5 minutes and write on that blank side of the card a list of the things that you believe are important to get done today—in no particular order. By "important" I mean things that may not be urgent, but things that will move forward your most worthy goals or projects. *(note: If you're already using another productivity system or have a list of actions to do, you can simply pull items from that pre-existing list)*
 
