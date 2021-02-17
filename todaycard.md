@@ -148,12 +148,27 @@ After Level 1--where you have your master action list--the back of the card beco
 
 ### Why an index card? Why not just a to-do list in a notebook or on an app?
 
+### What should go on the front of the card?
+Great question. My answer is this: whatever makes it easiest for you to look at the card and be ready to start doing item #1 on it. As I do for many things, I'll defer to the great David Allen, and suggest you list the next physical action step that will move things forward on the important thing that made you want to put that action on the card. But I realize that such actions may only take a minute.
+
+But, just because an action only takes a minute doesn't mean that it doesn't yield great value down the line. It also doesn't meant that it isn' timportant. So be aware of that. But there are some big actions that take a few steps, and you want to capture them as something shorter under 1 item on a card. My suggesiton is to use the first action that will get the ball rolling, and let the momentum of getting that done carry you. 
+
+You could also use commas, write small, and sneak 3 related actions onto one line.
 
 ### Why only 9 items?
+Partly because that's the amount of lines on the index card. But also because I think there's power in trying to do fewer things, but the kinds of things that yield a higher return. To that end, stay within the constraints of the system until you're quite sure they no longer apply to you.
+
+Are there days where you get more than 9 things done? Yes. Are more than 9 of those things the type of things that are really important *and* you have to really push yourself to get them done? I think that's highly unusual.
+
+By and large, the items on the card are going to be the kind that take some significant time and energy for you to do. Again, the card isn't for everything you might do today, it’s just the things that, if you do them, you can feel really good about today. And usually, those things are time, labor, and emotionally intensive.
 
 ### How many items should I put on my card?
-There's no easy answer to this question. 
+There's no easy answer to this question. A good rule of thumb is this: take the amount of hours you have free to work on these things today, multiply it by 1.25, and that's about the number of items to put on your list. This way, you have buffer time for things that drop-in (and they will), and you don't put yourself under a bunch of undue stress.
 
 ### Can I integrate something like timeblocking into the card?
+Yes! I do this frequently. It's hard to know sometimes just how long a task will take, so I commit to putting in a solid hour or 90 minutes of work on something. That becomes an item on the card. It's helped me move forward on many projects where I usually would have procrastinated.
 
 ### Can I use the Today Card while using another productivity system (GTD, Bullet Journal, etc.)?
+Absolutely. The card can be plugged into any existing productivity system, as a way to clarify what you should do today, and keep you focused and motivated on it. I still run something kind of like a GTD system, but the Today Card is how I take the information from that system and decide what to do today. 
+
+**If you have any more questions, please feel free to [email me](mailto: mike@mikesturm.net).**
