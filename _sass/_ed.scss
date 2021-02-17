@@ -256,12 +256,11 @@ li.attribution {
 /* Images */
 
 img {
-  display: inline-block;
+  display: block;
   max-width: -webkit-fill-available;
   max-height: 25rem;
     margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 img.mhead {
