@@ -5,7 +5,7 @@ author: Mike Sturm
 ---
 <h1 class="text-title">The Today Card</h1>
 
-### A Simple, Yet Scalable Personal Productivity System  
+<h2 class="subtitle">A Simple, Yet Scalable Personal Productivity System</h2>
 
 
 # All You Need Is An Index Card and a Few Minutes
