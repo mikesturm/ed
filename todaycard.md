@@ -10,6 +10,9 @@ author: Mike Sturm
 # All You Need Is An Index Card
 
 The Today Card is a productivity system designed around the simplest of tools: a 3 x 5 index card. It’s a card that starts as a simple task list, but becomes a whole lot more.
+
+It's designed to start by focusing only on what you can do today to move you toward where you want to be, and it builds out from there.
+
 It's a way to motivate you to be more productive, as well as a way to measure your productivity each day. It does 3 simple but important things:
 
 - Acts as a physical source of **motivation** throughout the day
@@ -40,7 +43,6 @@ Grab a lined 3x5 index card and make it look like the picture below:
 
 - The "P" and "E" columns to the far right should be only big enough to fit a single-digit number in each, but not bigger. You'll want as much space to the left of them as you can have.
 
-- The back of the card (without lines) will remain blank for now.
 
 ## Fill Out Your First Card
 
@@ -48,7 +50,7 @@ Grab a lined 3x5 index card and make it look like the picture below:
 
 <img src ="{{site.url}}{{site.baseurl}}/assets/portrait-card.png" alt=“back” style="max-height: 25rem;"/>
 
- 2. Take 5 minutes and write on that blank side of the card a list of the things that you believe are important to get done today—in no particular order. By "important" I mean things that may not be urgent, but things that will move forward your most worthy goals or projects. 
+ 2. Take 5 minutes and write on that blank side of the card a list of the things that you believe are important to get done today—in no particular order. By "important" I mean things that may not be urgent, but things that will move forward your most worthy goals or projects. *(note: If you're already using another productivity system or have a list of actions to do, you can simply pull items from that pre-existing list)*
 
 3. Flip back to the lined side of the card. Place a number "1" on the left hand side of your first line of the card. In that number one slot, write the most important task you can do today—one that will make the most impact on your most important goals.
 
@@ -66,7 +68,7 @@ This represents your possible points for each tasks, and the P values of those i
 I like to use the rule of no more than 1.25 items per hour of free time.
 
 - Favor *push* items over *pull* items.
-A *push* item is one that you need to make happen, as opposed to going to a meeting that’s been set up already. A *pull* item is one that either happens due to habit, or takes little effort or motivaiton for you to do. Meeting with someone when the meeting is already on your calendar—that’s a pull item, and not worth putting on your card. The exception would be when you’re notoriously bad about making meetings—in which case, put it on the card to motivate you to finally follow through!
+A *push* item is one that you need to make happen, as opposed to going to a meeting that’s been set up already. A *pull* item is one that either happens due to habit, or takes little effort or motivation for you to do. Meeting with someone when the meeting is already on your calendar—that’s a pull item, and not worth putting on your card. The exception would be when you’re notoriously bad about making meetings—in which case, put it on the card to motivate you to finally follow through!
 
 - Favor items that take longer than 15 minutes.
 This isn’t a hard and fast rule, but it’s usually the best way to go. An exception is when a really important but difficult task might only take 5 minutes, but you really have to push yourself to do it. By all means, put it on the card. But I’ve found those instances are rare. Reserve the card for the things that take a decent amount of your day’s free time and energy.
@@ -79,23 +81,27 @@ If you made an honest effort, but only got the task halfway done, you can earn h
 
 As you complete the most important tasks on the list, you get points. As you complete lower priority items on the list, you get points—but not as many as for the higher priority items.
 
-At the end of the day, add up your earned points and place that number in the bottom of the "E" column. Divide by the total number of "P" points. Place that decimal (highest score being 1.000) in the box at the center bottom. That decimal is your score for the day. It's your win %. It tells you how well you did at doing the things you identified as most important to you today.
-
 
 ## Review and Vow
 
-Review the items on your card in order.
+Review the items on your card in order.Take a deep breath in, and let it out slowly. Let it sink in that if you follow what's on this card, you can feel really good about how your day went. Vow to yourself that this card will be your guide for the day. Commit to looking at it for guidance on what to work on next.
+
+
+Now Get to work.
 
 
 
-## Score Yourself
-Now comes the fun part.
+## The End of the Day
+
+Congratulations! You've made it to the end of your first day using the Today Card. Now it's time to tabulate your score, so you can see how well you did.
+
+For each item you completed, be sure it's crossed off, and you've placed the point value in the "E" column for that item. If you put in real effort on an item, but didn't quite finish it, you can give yourself half of the possible point value for that item. You should get some credit for pushing yourself to work on it.
+
+Add up your earned points and place that number in the bottom of the "E" column. Divide that by the total number of "P" points. Place that decimal (highest score being 1.000) in the box at the center bottom. That decimal is your score for the day. It's your win %. It tells you how well you did at doing the things you identified as most important to you today.
 
 
 
-
-
-# Building Out
+# Day 2 - Building Out
 
 
 
