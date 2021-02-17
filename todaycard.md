@@ -109,28 +109,36 @@ After day 1, your main focus will be around 3 things:
 3. Using your score each day as a way to refine what you put on the card the next day.
 
 
-## Build a M.E.P.S
+## Build a M.E.P.S (Minimal External Productivity System)
 
-The central component is the card. If you just do the card, that's fine. But it helps to have a system external to the day's card that feeds the right actions and priority levels into the process of filling out the card each day. It helps to have what I call a M.E.P.S (a Minimal External Productivity System). The good news is, you have the start of one already! It's whatever actions remain undone from the front and back of Day 1's card.
+The central component is the card. If you just do the card each day--using whatever other organizatioal system you have--that will still help you foucs. 
 
-Your M.E.P.S consists of 2 simple components:
+But it helps to have a system external to the card that feeds the right actions and priority levels into the card each day. It helps to have what I call a M.E.P.S (a Minimal External Productivity System). The good news is, you have the start of one already! It's whatever actions remain undone from the front and back of Day 1's card.
 
-- A **Master Action List** of all the things you want to get done, separated into 3 categories:
+Your M.E.P.S consists of 3 simple components:
+
+- A **Scheduled Master Action List** of all the things you want to get done, separated into 3 categories:
     - Next Few Days
     - This Week
     - Next Week and After
-- A list of projects that those actions serve, in 2 categories:
+- A **Project List** that those actions serve, in 2 categories:
     - (G) Goal-related. It serves a goal of yours.
     - (NG) Mon-goal related. It's just something you need to get done.
+- A **Weekly Recap** (about 10 - 15 minutes) to do a few key things:
+    - record and review your score in the [scorekeeping spreadsheet](https://docs.google.com/spreadsheets/d/1P6VDieekSS-vji4CM5YRC9e0nGSANWNabx8_Zt8e0KA/edit?usp=sharing)
+    - reflect on your batting average for the week, and decide if you need to adjust your strategy
+    - review your action list, and move things on it in or out--depending on when you think you should try to do them.
 
 
 ## Use the M.E.P.S to get the most out of your card
+In Day 1, I talked about making sure the first few items are really important ones to you. Building and maintaining a M.E.P.S makes it much easier to decide which items go on your card and in what order. The first 2 actions on your card (the ones with the highest point values) should be ones that relate to projects in the (G) category on your project list. The reason for this is that you should earn the most points for working on what moves *your* goals forward. That's what this system is all about.
+
 Once you have a master action list and a project list categorized into (G) and (NG) projects, you can do some next-level card-creation.
 
-In Day 1, I talked about making sure the first few items are really important ones to you. Building and maintaining a M.E.P.S makes it much easier to decide which items go on your card and in what order. The first 2 actions on your card (the ones with the highest point values) should be ones that relate to projects in the (G) category on your project list. The reason for this is that you should earn the most points for working on what moves *your* goals forward. That's what this system is all about. 
+It also helps to divide your big list of next actions into 3 relative timeframes: next few days, this week, next week and after. I've found this to be enough to help me pre-priotitize what's on my plate. This way, I don't have to look at a huge list of what *could* go on my card each day. I'm most likely going to pull things from the *next few days* category first.
 
-## One tip to make your Master Action List more manageable
-A big, long list of actions is part of what kept me from being prodcutive--even when I was using systems like GTD. There's something about a list that large
+Perhaps the most helpful thing you can do to get the most out of the Today Card is a weekly recap. You score yourself each day, but recording your score over the week--and comparing it with the previous week--can help you understand how you're doing, and where you need to make adjustments. Reviewing your master action list and doing some scheduling is also helpful. And of course, reviewing your list of projects, to see if any new actions need to happen. That's also going to help.
+
 
 
 # FAQ
