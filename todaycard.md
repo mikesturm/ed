@@ -3,9 +3,10 @@ layout: default
 title: The Today Card
 author: Mike Sturm
 ---
-# The Today Card
+<h1 class="text-title">The Today Card</h1>
 
-### A Simple, Yet Scalable Personal Productivity System
+### A Simple, Yet Scalable Personal Productivity System  
+
 
 # All You Need Is An Index Card and a Few Minutes
 
