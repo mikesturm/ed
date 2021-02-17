@@ -115,16 +115,22 @@ The central component is the card. If you just do the card, that's fine. But it 
 
 Your M.E.P.S consists of 2 simple components:
 
-- A master list of actions you want to get done
+- A **Master Action List** of all the things you want to get done, separated into 3 categories:
+    - Next Few Days
+    - This Week
+    - Next Week and After
 - A list of projects that those actions serve, in 2 categories:
-     (G) Goal-related. It serves a goal of yours.
-     (NG) Mon-goal related. It's just something you need to get done.
+    - (G) Goal-related. It serves a goal of yours.
+    - (NG) Mon-goal related. It's just something you need to get done.
 
 
 ## Use the M.E.P.S to get the most out of your card
 Once you have a master action list and a project list categorized into (G) and (NG) projects, you can do some next-level card-creation.
 
 In Day 1, I talked about making sure the first few items are really important ones to you. Building and maintaining a M.E.P.S makes it much easier to decide which items go on your card and in what order. The first 2 actions on your card (the ones with the highest point values) should be ones that relate to projects in the (G) category on your project list. The reason for this is that you should earn the most points for working on what moves *your* goals forward. That's what this system is all about. 
+
+## One tip to make your Master Action List more manageable
+A big, long list of actions is part of what kept me from being prodcutive--even when I was using systems like GTD. There's something about a list that large
 
 
 # FAQ
