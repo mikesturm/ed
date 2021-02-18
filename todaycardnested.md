@@ -33,7 +33,7 @@ author: Mike Sturm
 }
 </style>
 </head>
-<body>
+
 <h1 class="text-title">The Today Card</h1>
 
 <h2 class="subtitle">A Simple, Yet Scalable Personal Productivity System</h2>
