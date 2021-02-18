@@ -61,9 +61,9 @@ Grab a lined 3x5 index card and make it look like the picture below:
 
 6. Once you have all the items on your card, place the number of the last item on your list in the "P" column of the first item. For instance, if you have 7 items on your list, item 1 gets 7. Item 2 gets 6, and so on down to item 7—which gets 1.
 
-This represents your possible points for each tasks, and the P values of those items summed up represents your total points for the day.
+This represents your possible points for each task, and the P values of those items summed up represents your total points for the day.
 
-## Tips for Filling Out Your Card
+## Tips for How to Fill Out Your Card
 
 - Look at your calendar before you begin filling out your tasks, to understand how much time you have available to take care of tasks on your initial big list. If you’re in meetings, picking up and dropping off kids, making dinner, and cleaning up for all but 2 hours today—consider a maximum of 3 items. Don’t put yourself under undue pressure.
 I like to use the rule of no more than 1.25 items per hour of free time.
@@ -76,7 +76,9 @@ This isn’t a hard and fast rule, but it’s usually the best way to go. An exc
 
 ## Review and Vow
 
-Review the items on your card in order.Take a deep breath in, and let it out slowly. Let it sink in that if you follow what's on this card, you can feel really good about how your day went. Vow to yourself that this card will be your guide for the day. Commit to looking at it for guidance on what to work on next.
+Review the items on your card in order. Take a deep breath in, and let it out slowly. Let it sink in that if you follow what's on this card, you can feel really good about how your day went. You’ve made the hard decisions. Now you just need to do the work.
+
+Vow to yourself that this card will be your guide for the day. Commit to looking at it for guidance on what to work on next.
 
 
 Now Get to work.
@@ -100,7 +102,7 @@ Add up your earned points and place that number in the bottom of the "E" column.
 
 
 
-# Level 2 - Building Out
+# Level 2  - Building Out
 
 After Level 1, you'll benefit from building out a minimal system around the daily card.
 
@@ -123,10 +125,10 @@ Your M.E.P.S consists of 3 simple components:
     - Next Week and After
 - A **Project List** that those actions serve, in 2 categories:
     - (G) Goal-related. It serves a goal of yours.
-    - (NG) Mon-goal related. It's just something you need to get done.
+    - (NG) Non-goal related. It's just something you need to get done.
 - A **Weekly Recap** (about 10 - 15 minutes) to do a few key things:
-    - record and review your score in the [scorekeeping spreadsheet](https://docs.google.com/spreadsheets/d/1P6VDieekSS-vji4CM5YRC9e0nGSANWNabx8_Zt8e0KA/edit?usp=sharing)
-    - reflect on your batting average for the week, and decide if you need to adjust your strategy
+    - record and review your score in the [scorekeeping spreadsheet](https://docs.google.com/spreadsheets/d/1P6VDieekSS-vji4CM5YRC9e0nGSANWNabx8_Zt8e0KA/edit?usp=sharing). You can also [download a .xls version of the sheet here](mikesturm.net/assets/Scorecard.xlsx).
+    - Reflect on your batting average for the week, and decide if you need to adjust your strategy
     - review your action list, and move things on it in or out--depending on when you think you should try to do them.
 
 
@@ -147,6 +149,24 @@ After Level 1--where you have your master action list--the back of the card beco
 # FAQ
 
 ### Why an index card? Why not just a to-do list in a notebook or on an app?
+I have 3 main reasons why I use a new index card every day, and I’m very passionate about them.
+1. It’s your best shot at avoiding distraction.
+        Even though social media and the internet in general get a bad rap for being sources of distraction, our own productivity systems can also be huge distractions. Planners, outlines, apps, and lists of projects and tasks can all distract you from what you should be doing now.
+        
+        The card is meant to be separate from all that other stuff. It is its own thing. It is today. Keep it separate, and watch your focus and motivation get magnified.
+        
+2. It’s a way to leverage the feeling of a fresh start.
+    The reason why it’s important to have a brand new card is the same reason that it feels so great to have a brand new planner at the beginning of the year. When the place where you are trying to figure out what you need to do today is the same place as your leftover junk from yesterday and the weeks before, your mind knows this. But when your mind sees a fresh, new, separate blank piece of paper, it’s given permission to take things on with a fresh new attitude. Do not refuse to take advantage of this. A fresh card works in the same way that a fresh notebook or planner works. It just does this every single day.
+    
+3. It’s portable and concrete.
+    The fact that you can feel the card and carry it with you makes what you’ve put on it all the more real. It becomes a talisman for doing your best today. The card you’re carrying with you is the best you can do today. Everything else is icing on the cake. 
+
+### Do I have to go to Level 2? Can I just make a card each day?
+100% yes. And I suggest you do that for as long as you like. I love a good master productivity system as much as the next desk jockey, but I also recognize a brutal truth. 
+
+The people who need a productivity system the most are often those who are least likely to succeed using a grand unified productivity system. It's too much, too soon. They still haven't learned how to feel good about today. That's what the card offers. 
+
+You can be successful using just the card because it serves to focus and motivate you to put down in writing what’s important to do today, and makes it fun to push yourself to get it done today. That alone is worthwhile.
 
 ### What should go on the front of the card?
 Great question. My answer is this: whatever makes it easiest for you to look at the card and be ready to start doing item #1 on it. As I do for many things, I'll defer to the great David Allen, and suggest you list the next physical action step that will move things forward on the important thing that made you want to put that action on the card. But I realize that such actions may only take a minute.
