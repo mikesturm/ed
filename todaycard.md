@@ -150,15 +150,15 @@ After Level 1--where you have your master action list--the back of the card beco
 
 ### Why an index card? Why not just a to-do list in a notebook or on an app?
 I have 3 main reasons why I use a new index card every day, and I’m very passionate about them.
-1. It’s your best shot at avoiding distraction.\ 
-Even though social media and the internet in general get a bad rap for being sources of distraction, our own productivity systems can also be huge distractions. Planners, outlines, apps, and lists of projects and tasks can all distract you from what you should be doing now.
+1. **It’s your best shot at avoiding distraction.**\
+Even though social media and the internet in general get a bad rap for being sources of distraction, our own productivity systems can also be huge distractions. Planners, outlines, apps, and lists of projects and tasks can all distract you from what you should be doing now.\
    The card is meant to be separate from all that other stuff. It is its own thing. It is today. Keep it separate, and watch your focus and motivation get magnified.
         
-2. It’s a way to leverage the feeling of a fresh start.\
+2. **It’s a way to leverage the feeling of a fresh start.**\
     The reason why it’s important to have a brand new card is the same reason that it feels so great to have a brand new planner at the beginning of the year. When the place where you are trying to figure out what you need to do today is the same place as your leftover junk from yesterday and the weeks before, your mind knows this.\
     But when your mind sees a fresh, new, separate blank piece of paper, it’s given permission to take things on with a fresh new attitude. Do not refuse to take advantage of this. A fresh card works in the same way that a fresh notebook or planner works. It just does this every single day.
     
-3. It’s portable and concrete.\
+3. **It’s portable and concrete.**\
     The fact that you can feel the card and carry it with you makes what you’ve put on it all the more real. It becomes a talisman for doing your best today. The card you’re carrying with you is the best you can do today. Everything else is icing on the cake. 
 
 ### Do I have to go to Level 2? Can I just make a card each day?
