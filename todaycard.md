@@ -65,13 +65,14 @@ This represents your possible points for each task, and the P values of those it
 
 ## Tips for How to Fill Out Your Card
 
-- Look at your calendar before you begin filling out your tasks, to understand how much time you have available to take care of tasks on your initial big list. If you’re in meetings, picking up and dropping off kids, making dinner, and cleaning up for all but 2 hours today—consider a maximum of 3 items. Don’t put yourself under undue pressure.
+- **Be conscious of your calendar**\
+Look at your calendar before you begin filling out your tasks, to understand how much time you have available to take care of tasks on your initial big list. If you’re in meetings, picking up and dropping off kids, making dinner, and cleaning up for all but 2 hours today—consider a maximum of 3 items. Don’t put yourself under undue pressure.\
 I like to use the rule of no more than 1.25 items per hour of free time.
 
-- Favor *push* items over *pull* items.
+- **Favor *push* items over *pull* items.**\
 A *push* item is one that you need to make happen, as opposed to going to a meeting that’s been set up already. A *pull* item is one that either happens due to habit, or takes little effort or motivation for you to do. Meeting with someone when the meeting is already on your calendar—that’s a pull item, and not worth putting on your card. The exception would be when you’re notoriously bad about making meetings—in which case, put it on the card to motivate you to finally follow through!
 
-- Favor items that take longer than 15 minutes.
+- **Favor items that take longer than 15 minutes.**\
 This isn’t a hard and fast rule, but it’s usually the best way to go. An exception is when a really important but difficult task might only take 5 minutes, but you really have to push yourself to do it. By all means, put it on the card. But I’ve found those instances are rare. Reserve the card for the things that take a decent amount of your day’s free time and energy.
 
 ## Review and Vow
@@ -100,6 +101,9 @@ For each item you completed, be sure it's crossed off, and you've placed the poi
 
 Add up your earned points and place that number in the bottom of the "E" column. Divide that by the total number of "P" points. Place that decimal (highest score being 1.000) in the box at the center bottom. That decimal is your score for the day. It's your win %. It tells you how well you did at doing the things you identified as most important to you today.
 
+A fully scored card at the day’s end should look like this:
+
+![finished]({{site.url}}{{site.baseurl}}/assets/finished-card.png)
 
 
 # Level 2  - Building Out
@@ -152,28 +156,32 @@ After Level 1--where you have your master action list--the back of the card beco
 I have 3 main reasons why I use a new index card every day, and I’m very passionate about them.
 1. **It’s your best shot at avoiding distraction.**\
 Even though social media and the internet in general get a bad rap for being sources of distraction, our own productivity systems can also be huge distractions. Planners, outlines, apps, and lists of projects and tasks can all distract you from what you should be doing now.\
+\
    The card is meant to be separate from all that other stuff. It is its own thing. It is today. Keep it separate, and watch your focus and motivation get magnified.
         
 2. **It’s a way to leverage the feeling of a fresh start.**\
     The reason why it’s important to have a brand new card is the same reason that it feels so great to have a brand new planner at the beginning of the year. When the place where you are trying to figure out what you need to do today is the same place as your leftover junk from yesterday and the weeks before, your mind knows this.\
+    \
     But when your mind sees a fresh, new, separate blank piece of paper, it’s given permission to take things on with a fresh new attitude. Do not refuse to take advantage of this. A fresh card works in the same way that a fresh notebook or planner works. It just does this every single day.
     
 3. **It’s portable and concrete.**\
     The fact that you can feel the card and carry it with you makes what you’ve put on it all the more real. It becomes a talisman for doing your best today. The card you’re carrying with you is the best you can do today. Everything else is icing on the cake. 
 
 ### Do I have to go to Level 2? Can I just make a card each day?
-100% yes. And I suggest you do that for as long as you like. I love a good master productivity system as much as the next desk jockey, but I also recognize a brutal truth. 
+No, you don’t have to go to Level 2. You can stay at Level 1 and fill out a daily card for as long as it works for you. But when it doesn’t work as well, Level 2 might be a huge help. 
 
-The people who need a productivity system the most are often those who are least likely to succeed using a grand unified productivity system. It's too much, too soon. They still haven't learned how to feel good about today. That's what the card offers. 
+I love a good master productivity system as much as the next desk jockey, but I also recognize a brutal truth. The people who need a productivity system the most are often those who are least likely to succeed using a grand unified productivity system. It's too much, too soon. They still haven't learned how to feel good about today. That's what the card offers. 
 
-You can be successful using just the card because it serves to focus and motivate you to put down in writing what’s important to do today, and makes it fun to push yourself to get it done today. That alone is worthwhile.
+You can be successful using only a card each day because it serves to focus and motivate you to put down in writing what’s important to do today, and makes it fun to push yourself to get it done today. That alone is worthwhile.
 
 ### What should go on the front of the card?
-Great question. My answer is this: whatever makes it easiest for you to look at the card and be ready to start doing item #1 on it. As I do for many things, I'll defer to the great David Allen, and suggest you list the next physical action step that will move things forward on the important thing that made you want to put that action on the card. But I realize that such actions may only take a minute.
+Great question. This is where there is a lot of room for making the system your own.
+
+My answer is this: whatever makes it easiest for you to look at the card and be ready to start doing item #1 on it. As I do for many things, I'll defer to the great David Allen, and suggest you list the next physical action step that will move things forward on the important thing that made you want to put that action on the card. But I realize that such actions may only take a minute.
 
 But, just because an action only takes a minute doesn't mean that it doesn't yield great value down the line. It also doesn't meant that it isn' timportant. So be aware of that. But there are some big actions that take a few steps, and you want to capture them as something shorter under 1 item on a card. My suggesiton is to use the first action that will get the ball rolling, and let the momentum of getting that done carry you. 
 
-You could also use commas, write small, and sneak 3 related actions onto one line.
+You could also use commas, write small, and sneak 3 related actions onto one line. It all depends on how you think, how you work, and your emotional state for that day.
 
 ### Why only 9 items?
 Partly because that's the amount of lines on the index card. But also because I think there's power in trying to do fewer things, but the kinds of things that yield a higher return. To that end, stay within the constraints of the system until you're quite sure they no longer apply to you.
