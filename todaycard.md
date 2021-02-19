@@ -131,7 +131,7 @@ Your M.E.P.S consists of 3 simple components:
     - (G) Goal-related. It serves a goal of yours.
     - (NG) Non-goal related. It's just something you need to get done.
 - A **Weekly Recap** (about 10 - 15 minutes) to do a few key things:
-    - record and review your score in the [scorekeeping spreadsheet](https://docs.google.com/spreadsheets/d/1P6VDieekSS-vji4CM5YRC9e0nGSANWNabx8_Zt8e0KA/edit?usp=sharing). You can also [download a .xls version of the sheet here](mikesturm.net/assets/Scorecard.xlsx).
+    - record and review your score in the [scorekeeping spreadsheet](https://docs.google.com/spreadsheets/d/1P6VDieekSS-vji4CM5YRC9e0nGSANWNabx8_Zt8e0KA/edit?usp=sharing). You can also [download a .xls version of the sheet here](https://mikesturm.net/assets/Scorecard.xlsx).
     - Reflect on your batting average for the week, and decide if you need to adjust your strategy
     - review your action list, and move things on it in or out--depending on when you think you should try to do them.
 
