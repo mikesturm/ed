@@ -199,4 +199,5 @@ Yes! I do this frequently. It's hard to know sometimes just how long a task will
 ### Can I use the Today Card while using another productivity system (GTD, Bullet Journal, etc.)?
 Absolutely. The card can be plugged into any existing productivity system, as a way to clarify what you should do today, and keep you focused and motivated on it. I still run something kind of like a GTD system, but the Today Card is how I take the information from that system and decide what to do today. 
 
+
 **If you have any more questions, please feel free to [email me](mailto: mike@mikesturm.net).**
